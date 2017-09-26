@@ -1,13 +1,5 @@
 body {
     margin: 0;
-}
-
-#content img {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 200px;
-    display: block;
-
-    width: 500px;
+    margin-top: 80px;
 }
     
