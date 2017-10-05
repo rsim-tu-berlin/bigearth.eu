@@ -1,9 +1,9 @@
 ---
 id: 5
-title: positions
+title: openpositions
 author: admin
 layout: page
-guid: http://www.bigearth.eu/positions
+guid: http://www.bigearth.eu/openpositions
 ---
 <div class="bg-faded p-4 my-4">
 	<div class="bg-faded p-4 my-4">
