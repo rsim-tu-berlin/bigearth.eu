@@ -14,7 +14,7 @@ guid: http://www.bigearth.eu/datasets
 			<img class="img-fluid" src="./assets/images/webpagedatasets.png" />
 		</div>
 <div class="col-9">
-	<p>We have manually labeled each image in the <a href="http://vision.ucmerced.edu/datasets/landuse.html" target="_blank">UC-Merced archive</a> with one or more (maximum seven) labels based on visual inspection in order to create the ground truth data. The total number of distinct class labels associated for the considered archive is 17.</p>  
+	<p>We have manually labeled each image in the <a href="http://vision.ucmerced.edu/datasets/landuse.html" target="_blank">UC-Merced archive</a> with one or more (maximum seven) labels based on visual inspection in order to create the ground reference data. The total number of distinct class labels associated for the considered archive is 17.</p>  
 
 	<p>Download the Labels from <a href="./assets/docs/multilabels.zip" target="_blank">here</a>.</p>
  
