@@ -25,7 +25,7 @@ guid: http://www.bigearth.eu/openpositions
 				<li>Kernel-based methods</li>
 				<li>Supervised, semi-supervised or unsupervised learning</li>
 				<li>Multi-modal learning</li>
-				<li>SAR, multispectral and/or hyperspectral image processing</li>
+				<li>SAR, multispectral and/or hyperspectral image classification</li>
 			</ul>
 		</li>
 	</ul>
