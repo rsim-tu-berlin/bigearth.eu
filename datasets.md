@@ -22,7 +22,7 @@ guid: http://www.bigearth.eu/datasets
 
 	<p>If you use our multi-labels, please cite: 
 	<br /><br />
-	B. Chaudhuri, B. Demir, S. Chaudhuri, L. Bruzzone, "Multi-label Remote Sensing Image Retrieval using a Semi-Supervised Graph-Theoretic Method", IEEE Transactions on Geoscience and Remote Sensing, vol. 56, no.1 , 2018. 
+	B. Chaudhuri, B. Demir, S. Chaudhuri, L. Bruzzone, "Multi-label Remote Sensing Image Retrieval using a Semi-Supervised Graph-Theoretic Method", IEEE Transactions on Geoscience and Remote Sensing, vol. 56, no.1, 2018. 
 	</p>
 	</div>
 </div>
