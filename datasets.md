@@ -18,7 +18,7 @@ guid: http://www.bigearth.eu/datasets
 
 	<p>Download the Labels from <a href="./assets/docs/multilabels.zip" target="_blank">here</a>.</p>
  
-	<p>For the details see <a href="./assets/docs/MLCBIR.pdf" target="_blank">our paper</a>.</p>
+	<p>For the details see <a href="http://ieeexplore.ieee.org/document/8089668/" target="_blank">our paper</a>.</p>
 
 	<p>If you use our multi-labels, please cite: 
 	<br /><br />
