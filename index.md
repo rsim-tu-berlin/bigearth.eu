@@ -70,7 +70,7 @@ guid: http://www.bigearth.eu/index
 			</a>
 			<br>
 			<a href="https://www.tu-berlin.de" target="_blank">
-				<img class="img-fluid float-left pb-3 d-none d-lg-block center-block" src="./assets/images/logo_tu_berlin.jpg" width="180px" alt="">
+				<img class="img-fluid float-left pb-3 d-none d-lg-block center-block" src="./assets/images/logo_tu_berlin.jpg" width="200px" style="margin-top: 1em" alt="">
 			</a>
 		</div>
 		
