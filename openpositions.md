@@ -38,7 +38,7 @@ The research activity of the successful candidates will focus on:
 	</ul>
 </p>
 
-<p>The candidates will actively participate in research and working with graduate students, and will also have opportunities for teaching. For further information, please contact <a href="http://www.begumdemir.com" target="_blank">Dr. Begüm Demir</a> (demir[at]disi.unitn.it)</p>
+<p>The candidates will actively participate in research and working with graduate students, and will also have opportunities for teaching. For further information, please contact <a href="http://www.begumdemir.com" target="_blank">Dr. Begüm Demir</a> (demir[at]bigearth.eu)</p>
 
 <p><strong>Preferred starting date:</strong> 01/04/2018 (it is negotiable)</p>
 
