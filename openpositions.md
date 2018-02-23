@@ -44,7 +44,7 @@ The research activity of the successful candidates will focus on:
 
 <p><strong>Duration:</strong> 2 years</p>
 
-<p>If you are interested, please send your resume, a statement of research experience and the contact details of three references as single PDF document to <a href="http://www.begumdemir.com" target="_blank">Dr. Begüm Demir</a> (demir[at]disi.unitn.it).</p>
+<p>If you are interested, please send your resume, a statement of research experience and the contact details of three references as single PDF document to <a href="http://www.begumdemir.com" target="_blank">Dr. Begüm Demir</a> (demir[at]bigearth.eu).</p>
 
 <p class="text-underline">There is no strict deadline and the position will remain open until it is filled.</p>
 
