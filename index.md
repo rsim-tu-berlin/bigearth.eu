@@ -69,11 +69,9 @@ guid: http://www.bigearth.eu/index
 				<img class="img-fluid float-left pb-3 d-none d-lg-block" src="./assets/images/EU_flag.jpg" width="200px" alt="">
 			</a>
 			<br>
-			<!--
 			<a href="https://www.tu-berlin.de" target="_blank">
 				<img class="img-fluid float-left pb-3 d-none d-lg-block center-block" src="./assets/images/logo_tu_berlin.jpg" width="200px" style="margin-top: 1em" alt="">
 			</a>
-			-->
 		</div>
 		
 <div class="col-sm-9">
