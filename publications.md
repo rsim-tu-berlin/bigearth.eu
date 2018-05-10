@@ -19,8 +19,8 @@ guid: http://www.bigearth.eu/publications
 				<br />
 				Subhankar Roy, Enver Sangineto, Begüm Demir, Nicu Sebe <br />
 				International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018. <br>
-				<a href="assets/publications/pdfs/MHCLN-RoySanginetoDemirSebeFinal.pdf" target="_blank"><i class="publication-icon fa fa-file-pdf-o text-color-be"></i></a>
-				<a href="https://github.com/MLEnthusiast/MHCLN" target="_blank"><i class="publication-icon fa fa-github text-color-be"></i></a>
+				<a class="publication-icon" href="assets/publications/pdfs/MHCLN-RoySanginetoDemirSebeFinal.pdf" target="_blank"><i class="publication-icon fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="https://github.com/MLEnthusiast/MHCLN" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
 	</div>
