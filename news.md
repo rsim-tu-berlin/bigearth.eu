@@ -10,10 +10,10 @@ guid: http://www.bigearth.eu/media
 	<div class="bg-faded p-4 my-4">
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image-default" src="./assets/images/bigearth.png">
+				<img class="publication-image-default" src="./assets/images/logo_tu_berlin.png">
 			</div>
 			<div class="col-9">
-				<b>October 2017</b> - We are looking for our new team members as two outstanding PostDocs.
+				<b>April 2018</b> - BigEarth has moved to TU Berlin and officially started in April 1st!
 			</div>
 		</div>
 		<hr />
