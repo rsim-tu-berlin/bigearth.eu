@@ -10,7 +10,7 @@ guid: http://www.bigearth.eu/media
 	<div class="bg-faded p-4 my-4">
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image-default" src="./assets/images/logo_tu_berlin.png">
+				<img class="publication-image-default" src="./assets/images/logo_tu_berlin.jpg">
 			</div>
 			<div class="col-9">
 				<b>April 2018</b> - BigEarth has moved to TU Berlin and officially started in April 1st!
