@@ -16,6 +16,7 @@ guid: http://www.bigearth.eu/media
 				<b>October 2017</b> - We are looking for our new team members as two outstanding PostDocs.
 			</div>
 		</div>
+		<hr />
 		<div class="row">
 			<div class="col-3">
 				<img class="publication-image-default" src="./assets/images/bigearth.png">
@@ -24,6 +25,7 @@ guid: http://www.bigearth.eu/media
 				<b>September 2017</b> - BigEarth is on <a href="http://www.pressreader.com/italy/corriere-del-trentino/20170916/281487866520040" target="_blank">Corriere del Trentino</a>.
 			</div>
 		</div>
+		<hr />
 		<div class="row">
 			<div class="col-3">
 				<img class="publication-image-default" src="./assets/images/bigearth.png">
@@ -32,6 +34,7 @@ guid: http://www.bigearth.eu/media
 				<b>September 2017</b> - BigEarth is on <a href="http://www.buyukkocaeli.com.tr/tarih-seni-yazacak-begum-hoca-11692h.htm" target="_blank">local Turkish newspaper</a>.
 			</div>
 		</div>
+		<hr />		
 		<div class="row">
 			<div class="col-3">
 				<img class="publication-image-default" src="./assets/images/bigearth.png">
