@@ -48,7 +48,7 @@ guid: http://www.bigearth.eu/media
 		<hr />		
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image" src="./assets/news/images/dream_big_set_goals_take_action.jpg">
+				<img class="publication-image" src="./assets/news/images/dream_big_set_goals_take_action.png">
 			</div>
 			<div class="col-9">
 				<b>September 2017</b> - Thanks to <a href="https://erc.europa.eu" target="_blank">European Research Council (ERC)</a> <a href="https://erc.europa.eu/sites/default/files/document/file/erc_2017_stg_results_pe.pdf" target="_blank">Starting Grant</a>, Begüm Demir will make her dreams on 'BigEarth - Accurate and Scalable Processing of Big Data in Earth Observation' come true.
