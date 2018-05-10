@@ -19,7 +19,7 @@ guid: http://www.bigearth.eu/media
 		<hr />
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image-default" src="./assets/images/bigearth.png">
+				<img class="publication-image" src="./assets/news/images/corriere-del-trentino-20170916.png">
 			</div>
 			<div class="col-9">
 				<b>September 2017</b> - BigEarth is on <a href="http://www.pressreader.com/italy/corriere-del-trentino/20170916/281487866520040" target="_blank">Corriere del Trentino</a>.
