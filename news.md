@@ -10,11 +10,11 @@ guid: http://www.bigearth.eu/media
 	<div class="bg-faded p-4 my-4">
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image" src="./assets/news/images/tu_berlin_rector_2018.jpg">
+				<img class="publication-image" src="./assets/news/images/we_are_hiring.png">
 			</div>
 			<div class="col-9">
-				<b>April 2018</b> - BigEarth has moved to TU Berlin and officially started in April 1st! <br />
-				<a href="http://www.pressestelle.tu-berlin.de/menue/tub_medien/publikationen/medieninformationen/2018/mai_2018/medieninformation_nr_732018/">For more details...</a>
+				<b>May 2018</b> - We are hiring! <br />
+				Please check the <a href="http://bigearth.eu/openpositions.html">open positions</a> for details.
 			</div>
 		</div>
 		<hr />
