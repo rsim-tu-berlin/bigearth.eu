@@ -13,9 +13,7 @@ guid: http://www.bigearth.eu/publications
 
 
 		<div class="row">
-			<div class="col-3">
-				<img class="publication-image-default" />
-			</div>
+			<div class="col-3 publication-image-default"></div>
 			<div class="col-9">
 				<span class="publication-title">A Novel System for Content based Retrieval of Single and Multi-Label High Dimensional Remote Sensing Images</span> <br />
 				Osman Emre Dai, Begüm Demir, Bülent Sankur, Lorenzo Bruzzone <br /> 
