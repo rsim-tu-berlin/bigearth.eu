@@ -3,11 +3,15 @@ body {
     margin-top: 80px;
 }
     
-.publication_image {
+.publication-image {
 	width: 200px;
 	height: 100px;
 }
 
-.publication_icon {
+.publication-icon {
 	font-size: 1.5em;
+}
+
+.publication-title {
+	font-weight: bold;
 }
