@@ -14,12 +14,12 @@ guid: http://www.bigearth.eu/publications
 
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image" src="assets/images/bigearth.png" />
+				<img class="publication-image-default" />
 			</div>
 			<div class="col-9">
 				<span class="publication-title">A Novel System for Content based Retrieval of Single and Multi-Label High Dimensional Remote Sensing Images</span> <br />
 				Osman Emre Dai, Begüm Demir, Bülent Sankur, Lorenzo Bruzzone <br /> 
-				IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, accepted for publication, 2018.
+				IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, accepted for publication, 2018. <br />
 				<a class="publication-icon" href="assets/publications/pdfs/A-Novel-System-for-Content-based-Retrieval-of-Single-and-Multi-Label-High-Dimensional-Remote-Sensing-Images" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="#" target="_blank"><i class="fa fa-database text-color-be"></i></a>
 			</div>
