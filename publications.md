@@ -39,5 +39,15 @@ guid: http://www.bigearth.eu/publications
 		</div>
 
 
+		<div class="row">
+			<div class="col-3 publication-image-default"></div>
+			<div class="col-9">
+				<span class="publication-title">Advanced Local Binary Patterns for Remote Sensing Image Retrieval</span>
+				<br />
+				Issayas Tekeste Mirach, Begüm Demir<br />
+				International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.<br>
+				<a class="publication-icon" href="assets/publications/pdfs/Advanced-Local-Binary-Patterns-for-Remote-Sensing-Image-Retrieval.pdf" target="_blank"><i class="publication-icon fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
 	</div>
 </div>

@@ -11,7 +11,7 @@ body {
 .publication-image-default {
 	width: 200px;
 	height: 60px;
-	background-image: url('./assets/images/bigearth.png');
+	background-image: url('../../assets/images/bigearth.png');
 }
 
 .publication-icon {
