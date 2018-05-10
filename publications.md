@@ -11,7 +11,6 @@ guid: http://www.bigearth.eu/publications
 			<b>Note:</b> This publication list includes only BigEarth-related publications. For the full list, please <a href="http://begumdemir.com/papers.html" target="_blank">see</a>. PDFs given in this web page are the authors' draft versions of the related papers.
 		</p>
 		<hr />
-
 		<div class="row">
 			<div class="col-3">
 				<img class="publication-image-default" src="./assets/images/bigearth.png">
@@ -25,7 +24,6 @@ guid: http://www.bigearth.eu/publications
 			</div>
 		</div>
 		<hr /> 
-
 		<div class="row">
 			<div class="col-3">
 				<img class="publication-image" src="assets/publications/images/MHCLN-RoySanginetoDemirSebeFinal.png" />
@@ -40,7 +38,6 @@ guid: http://www.bigearth.eu/publications
 			</div>
 		</div>
 		<hr /> 
-
 		<div class="row">
 			<div class="col-3">
 				<img class="publication-image-default" src="./assets/images/bigearth.png">
