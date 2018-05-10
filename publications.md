@@ -13,7 +13,9 @@ guid: http://www.bigearth.eu/publications
 
 
 		<div class="row">
-			<div class="col-3 publication-image-default"></div>
+			<div class="col-3">
+				<img class="publication-image-default" src="./assets/images/bigearth.png">
+			</div>
 			<div class="col-9">
 				<span class="publication-title">A Novel System for Content based Retrieval of Single and Multi-Label High Dimensional Remote Sensing Images</span> <br />
 				Osman Emre Dai, Begüm Demir, Bülent Sankur, Lorenzo Bruzzone <br /> 
@@ -37,10 +39,12 @@ guid: http://www.bigearth.eu/publications
 				<a class="publication-icon" href="https://github.com/MLEnthusiast/MHCLN" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
-
+		<hr /> 
 
 		<div class="row">
-			<div class="col-3 publication-image-default"></div>
+			<div class="col-3">
+				<img class="publication-image-default" src="./assets/images/bigearth.png">
+			</div>
 			<div class="col-9">
 				<span class="publication-title">Advanced Local Binary Patterns for Remote Sensing Image Retrieval</span>
 				<br />
