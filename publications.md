@@ -18,8 +18,8 @@ guid: http://www.bigearth.eu/publications
 				Deep Metric and Hash-Code Learning for Content-Based Retrieval of Remote Sensing Images <br />
 				Subhankar Roy, Enver Sangineto, Begüm Demir, Nicu Sebe <br />
 				International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018. <br>
-				<a href="assets/publications/pdfs/MHCLN-RoySanginetoDemirSebeFinal.pdf" target="_blank"><i class="fa fa-file-pdf text-dabebe"></i></a>
-				<a href="https://github.com/MLEnthusiast/MHCLN" target="_blank"><i class="fa fa-github-square text-dabebe"></i></a>
+				<a href="assets/publications/pdfs/MHCLN-RoySanginetoDemirSebeFinal.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+				<a href="https://github.com/MLEnthusiast/MHCLN" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
 	</div>
