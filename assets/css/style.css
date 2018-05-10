@@ -8,7 +8,7 @@ body {
 	height: 100px;
 }
 
-.publication-image {
+.publication-image-default {
 	width: 200px;
 	height: 60px;
 	background-image: url('./assets/images/bigearth.png');
