@@ -31,7 +31,7 @@ guid: http://www.bigearth.eu/datasets
 	<h4>Ankara Hyperspectral Image Archive:</h4>
 	<div class="row">
 		<div class="col-3">
-			<img class="img-fluid" src="./assets/images/ankara_hsi.png" />
+			<img class="img-fluid" src="./assets/docs/ankara_hsi/ankara_hsi.png" />
 		</div>
         <div class="col-9">
 		<p>The Ankara benchmark archive consists of 216 hyperspectral image tiles obtained by fragmenting a hyperspectral image acquired by EO-1 Hyperion sensor over surroundings of Ankara, Turkey. Each image tile has been annotated with: i) multiple land-cover class labels and ii) a land-use category label.</p> 
