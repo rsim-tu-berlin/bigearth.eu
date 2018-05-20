@@ -36,7 +36,7 @@ guid: http://www.bigearth.eu/datasets
         <div class="col-9">
 		<p>The Ankara benchmark archive consists of 216 hyperspectral image tiles obtained by fragmenting a hyperspectral image acquired by EO-1 Hyperion sensor over surroundings of Ankara, Turkey. Each image tile has been annotated with: i) multiple land-cover class labels and ii) a land-use category label.</p> 
 
-		<p>Download the archive from <a href="http://bit.ly/AnkaraHSIArchive" target="_blank">here</a>. For the details see <a href="./assets/docs/ankara_hsi/Readme.txt">Readme file</a> and also our <a href="./assets/docs/ankara_hsi/CHIR-2016.pdf">paper</a>.</p>
+		<p>Download the archive from <a href="http://bit.ly/Ankara_HSI_Archive" target="_blank">here</a>. For the details see <a href="./assets/docs/ankara_hsi/Readme.txt">Readme file</a> and also our <a href="./assets/docs/ankara_hsi/CHIR-2016.pdf">paper</a>.</p>
 		
 		<p>If you use our archive, please cite:
 		<br /><br />
