@@ -47,7 +47,7 @@ guid: http://www.bigearth.eu/publications
 				<br />
 				Subhankar Roy, Enver Sangineto, Begüm Demir, Nicu Sebe<br />
 				IEEE 2018 International Conference on Image Processing (ICIP 2018), Athens, Greece, 2018. <br>
-				<a class="publication-icon" href="assets/publications/pdfs/MHCLN-RoySanginetoDemirSebeFinal.pdf" target="_blank"><i class="publication-icon fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="assets/publications/pdfs/SGSSIC-RoySanginetoDemirSebeFinal.pdf" target="_blank"><i class="publication-icon fa fa-file-pdf-o text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
