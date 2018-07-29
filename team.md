@@ -169,40 +169,13 @@ guid: http://www.bigearth.eu/team
     background-color: #5DDDD3;
     cursor: pointer;
 }
-/*.section-info{
-    border-top:6px solid #90DFAA;
-}
-.section-danger{
-    border-top:6px solid #FD8469;
-}*/
-/*.section-info .section1 img{
-    border:5px solid #90DFAA;
-    padding:5px;
-}*/
-/*.section-info .section2 p{
-    background-color: #90DFAA;
-    color:#fff;
-}*/
-/*.section-danger .section2 p{
-    background-color: #FD8469;
-    color:#fff;
-}*/
-.section-danger .section1 img{
-    border:5px solid #FD8469;
-    padding:5px;
-}
-.section-info .section4 i{
-    background-color: #90DFAA;  
-}
-.section-danger .section4 i{
-    background-color: #FD8469; 
+
+.section-danger .section4 i {
+    background-color: rgba(241, 90, 36); 
     font-size: 14pt;
 }
-.section-info .section2 h1{
-    border-bottom:2px solid #90DFAA;
-}
-.section-danger .section2 h1{
-    border-bottom:2px solid #FD8469;
-}
 
+.section-danger .section2 h1{
+    border-bottom:2px solid rgba(241, 90, 36);
+}
 </style>
