@@ -66,12 +66,12 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image-default" src="./assets/images/bigearth.png">
+				<img class="publication-image" src="assets/publications/images/MLAL-BayableFinal.png">
 			</div>
 			<div class="col-9">
 				<span class="publication-title">A Novel Active Learning Technique for Multilabel Remote Sensing Image Scene Classification</span>
 				<br />
-				B. T. Zegeye, and B. Demir<br />
+				Bayable Teshome Zegeye, Begüm Demir<br />
 				SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.
 			</div>
 		</div>
@@ -83,7 +83,7 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-9">
 				<span class="publication-title">A Novel Coarse-to-Fine Remote Sensing Image Retrieval System in JPEG-2000 Compressed Domain</span>
 				<br />
-				A. P. Byju, B. Demir, L. Bruzzone<br />
+				Akshara Preethy Byju, Begüm Demir, Lorenzo Bruzzone<br />
 				SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.
 			</div>
 		</div>
