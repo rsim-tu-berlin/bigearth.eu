@@ -13,12 +13,12 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image-default" src="./assets/images/bigearth.png">
+				<img class="publication-image" src="assets/publications/images/BoSV-DaiSankurDemirFinal.png">
 			</div>
 			<div class="col-9">
 				<span class="publication-title">A Novel System for Content based Retrieval of Single and Multi-Label High Dimensional Remote Sensing Images</span> <br />
 				Osman Emre Dai, Begüm Demir, Bülent Sankur, Lorenzo Bruzzone <br />
-				IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, accepted for publication, 2018. <br />
+				IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 11, no. 7, pp.  2473 - 2490, July 2018.<br />
 				<a class="publication-icon" href="assets/publications/pdfs/A-Novel-System-for-Content-based-Retrieval-of-Single-and-Multi-Label-High-Dimensional-Remote-Sensing-Images.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="http://bit.ly/Ankara_HSI_Archive" target="_blank"><i class="fa fa-database text-color-be"></i></a>
 			</div>
@@ -43,7 +43,7 @@ guid: http://www.bigearth.eu/publications
 				<img class="publication-image" src="assets/publications/images/SGSSIC-RoySanginetoDemirSebeFinal.jpg" />
 			</div>
 			<div class="col-9">
-				<span class="publication-title">Semantic-Fusion Gans For Semi-Supervised Satellite Image Classification</span>
+				<span class="publication-title">Semantic-Fusion Gans for Semi-Supervised Satellite Image Classification</span>
 				<br />
 				Subhankar Roy, Enver Sangineto, Begüm Demir, Nicu Sebe<br />
 				IEEE International Conference on Image Processing, Athens, Greece, 2018. <br>
@@ -61,6 +61,30 @@ guid: http://www.bigearth.eu/publications
 				Issayas Tekeste Mirach, Begüm Demir<br />
 				IEEE International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.<br>
 				<a class="publication-icon" href="assets/publications/pdfs/Advanced-Local-Binary-Patterns-for-Remote-Sensing-Image-Retrieval.pdf" target="_blank"><i class="publication-icon fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
+				<img class="publication-image-default" src="./assets/images/bigearth.png">
+			</div>
+			<div class="col-9">
+				<span class="publication-title">A Novel Active Learning Technique for Multilabel Remote Sensing Image Scene Classification</span>
+				<br />
+				B. T. Zegeye, and B. Demir<br />
+				SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
+				<img class="publication-image-default" src="./assets/images/bigearth.png">
+			</div>
+			<div class="col-9">
+				<span class="publication-title">A Novel Coarse-to-Fine Remote Sensing Image Retrieval System in JPEG-2000 Compressed Domain</span>
+				<br />
+				A. P. Byju, B. Demir, L. Bruzzone<br />
+				SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.
 			</div>
 		</div>
 	</div>

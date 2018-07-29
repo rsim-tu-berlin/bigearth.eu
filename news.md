@@ -13,8 +13,17 @@ guid: http://www.bigearth.eu/media
 				<img class="publication-image" src="./assets/news/images/we_are_hiring.png">
 			</div>
 			<div class="col-9">
-				<b>May 2018</b> - We are hiring! <br />
+				<b>August 2018</b> - We are hiring! <br />
 				Please check the <a href="http://bigearth.eu/openpositions.html">open positions</a> for details.
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
+				<img class="publication-image" src="./assets/news/images/early_career_award_2018.jpg" id="modalHandleImg">
+			</div>
+			<div class="col-9">
+				<b>July 2018</b> - Prof. Dr. Demir is the recipient of the prestigious <b>“2018 Early Career Award”</b> presented by the IEEE Geoscience and Remote Sensing Society (GRSS).  IEEE GRSS founded in 1962 is the most important international scientific society in the field of geosciences and remote sensing. Factors considered for assigning the award are: quality, the significance and impact of contributions, papers published in archival journals, papers presented at conferences and symposia, a demonstration of leadership, and advancement of the profession.
 			</div>
 		</div>
 		<hr />
@@ -56,3 +65,40 @@ guid: http://www.bigearth.eu/media
 		</div>
 	</div>
 </div>
+
+
+<!-- Modal -->
+<!-- The Modal -->
+<div id="modalBox" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="modalImg">
+  <div id="caption"></div>
+</div>
+
+<script>
+// Get the modal
+var modal = document.getElementById('modalBox');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('modalHandleImg');
+var modalImg = document.getElementById("modalImg");
+var captionText = document.getElementById("caption");
+
+img.onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+    modal.style.display = "none";
+}
+
+modal.addEventListener('click',function(){
+  this.style.display="none";
+})
+</script>
