@@ -8,7 +8,7 @@ guid: http://www.bigearth.eu/team
 
 <div class="bg-faded p-4 my-4">
 	<div class="bg-faded p-4 my-4">
-<!-- 		<div class="row">
+		<!-- <div class="row">
 			<div class="col-md-12 col-sm-12 col-xs-12 ourTeam-hedding text-center">
 				<h1>Meet Our Team</h1>
 			</div>

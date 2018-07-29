@@ -66,7 +66,7 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image" src="assets/publications/images/MLAL-BayableFinal.png">
+				<img class="publication-image" src="assets/publications/images/MLAL-BayableFinal.png" />
 			</div>
 			<div class="col-9">
 				<span class="publication-title">A Novel Active Learning Technique for Multilabel Remote Sensing Image Scene Classification</span>
