@@ -169,12 +169,12 @@ guid: http://www.bigearth.eu/team
     background-color: #5DDDD3;
     cursor: pointer;
 }
-.section-info{
+/*.section-info{
     border-top:6px solid #90DFAA;
 }
 .section-danger{
     border-top:6px solid #FD8469;
-}
+}*/
 /*.section-info .section1 img{
     border:5px solid #90DFAA;
     padding:5px;
