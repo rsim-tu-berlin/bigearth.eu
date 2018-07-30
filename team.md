@@ -43,7 +43,7 @@ guid: http://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/anon_user.jpg">
+						<img src="assets/team/gencer_sumbul.jpg">
 					</div>
 					<div class="col-md-12 section2">
 						<p>Gencer Sümbül</p><br>
