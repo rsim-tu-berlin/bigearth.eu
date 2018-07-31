@@ -78,7 +78,7 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image-default" src="./assets/images/bigearth.png">
+				<img class="publication-image-default" src="assets/publications/images/CtF-AksharaFinal.png" />
 			</div>
 			<div class="col-9">
 				<span class="publication-title">A Novel Coarse-to-Fine Remote Sensing Image Retrieval System in JPEG-2000 Compressed Domain</span>
