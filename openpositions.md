@@ -11,7 +11,7 @@ guid: http://www.bigearth.eu/openpositions
 <h4>Open Positions:</h4>
 <ul>
   <li>
-    <a href="./openpositions/BigEarth-postdoc-call-position-multi-modal-remote-sensing-image-search-and-retrieval.pdf" target="_blank">Postdoc Position: Multi-Modal Remote Sensing Image Search and Retrieval</a>
+    <a href="https://bit.ly/RSiM-PostDocCall-01" target="_blank">Postdoc Position: Multi-Modal Remote Sensing Image Search and Retrieval</a>
   </li>
 </ul>
 <!-- Page Content End -->
