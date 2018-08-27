@@ -11,7 +11,18 @@ guid: http://www.bigearth.eu/publications
 			<b>Note:</b> This publication list includes only BigEarth-related publications. For the full list, please <a href="http://begumdemir.com/papers.html" target="_blank">see</a>. PDFs given in this web page are the authors' draft versions of the related papers.
 		</p>
 		<hr />
-		<div class="row">
+, "", IEEE Geoscience and Remote Sensing Letters, accepted for publication.
+		<div class="row">			
+			<div class="col-3">
+				<img class="publication-image" src="assets/publications/images/MultiCode-ThomasFinal.png">
+			</div>
+			<div class="col-9">
+				<span class="publication-title">A Novel Unsupervised Multi-Code Hashing Strategy for Accurate and Scalable Remote Sensing Image Retrieval</span> <br />
+				Thomas Reato, Begüm Demir, Lorenzo Bruzzone <br />
+				IEEE Geoscience and Remote Sensing Letters, accepted for publication.
+			</div>
+		</div>		
+		<div class="row">			
 			<div class="col-3">
 				<img class="publication-image" src="assets/publications/images/BoSV-DaiSankurDemirFinal.png">
 			</div>
