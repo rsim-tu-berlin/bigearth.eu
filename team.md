@@ -39,46 +39,6 @@ guid: http://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
-			<!-- -->
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
-						<img src="assets/team/anon_user.jpg">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Nadine May</p><br>
-						<h1>Administrative Assistant</h1><br>
-					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
-					<div class="col-md-12 section4">
-						<a href="mailto:nadine.i.pissors@campus.tu-berlin.de">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
-						</a>
-					</div>
-				</div>
-			</div>
-			<!-- -->
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
-						<img src="assets/team/adela_westedt.jpg">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Adela Westedt</p><br>
-						<h1>System Administration</h1><br>
-					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
-					<div class="col-md-12 section4">
-						<a href="mailto:adela.westedt@tu-berlin.de">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
-						</a>
-					</div>
-				</div>
-			</div>
 			<!-- -->			
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
@@ -141,6 +101,46 @@ guid: http://www.bigearth.eu/team
 						</a>
 						<a href="mailto:rezaeijafari@campus.tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/anon_user.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Nadine May</p><br>
+						<h1>Administrative Assistant</h1><br>
+					</div>
+					<!-- <div class="col-md-12 section3">
+						<p></p>
+					</div> -->
+					<div class="col-md-12 section4">
+						<a href="mailto:nadine.i.pissors@campus.tu-berlin.de">
+							<i class="fa fa-envelope" aria-hidden="true"></i>							
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/adela_westedt.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Adela Westedt</p><br>
+						<h1>System Administration</h1><br>
+					</div>
+					<!-- <div class="col-md-12 section3">
+						<p></p>
+					</div> -->
+					<div class="col-md-12 section4">
+						<a href="mailto:adela.westedt@tu-berlin.de">
+							<i class="fa fa-envelope" aria-hidden="true"></i>							
 						</a>
 					</div>
 				</div>
