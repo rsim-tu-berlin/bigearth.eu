@@ -57,24 +57,32 @@ guid: http://www.bigearth.eu/index
         </div>
       </div>
 -->
-
 	<div class="bg-faded p-4 my-4 text-justify">
 		<div class="row">
 		<div class="col-sm-3">
-			<a href="https://erc.europa.eu" target="_blank">
-				<img class="img-fluid float-left pb-3 d-none d-lg-block" src="./assets/images/ERC_logo_339px.png" width="200px" alt="">
-			</a>
-			<br>
-			<a href="https://europa.eu/european-union/index_en" target="_blank">
-				<img class="img-fluid float-left pb-3 d-none d-lg-block" src="./assets/images/EU_flag.jpg" width="200px" alt="">
-			</a>
-			<br>
-			<a href="https://www.tu-berlin.de" target="_blank">
-				<img class="img-fluid float-left pb-3 d-none d-lg-block center-block" src="./assets/images/logo_tu_berlin.jpg" width="200px" style="margin-top: 1em" alt="">
-			</a>
+      <div class="row">
+        <div class="col-12">
+    			<a href="https://erc.europa.eu" target="_blank">
+    				<img class="img-fluid float-left pb-3 d-none d-lg-block" src="./assets/images/ERC_logo_339px.png" width="200px" alt="">
+    			</a>
+    			<br>
+    			<a href="https://europa.eu/european-union/index_en" target="_blank">
+    				<img class="img-fluid float-left pb-3 d-none d-lg-block" src="./assets/images/EU_flag.jpg" width="200px" alt="">
+    			</a>
+    			<br>
+    			<a href="https://www.tu-berlin.de" target="_blank">
+    				<img class="img-fluid float-left pb-3 d-none d-lg-block center-block" src="./assets/images/logo_tu_berlin.jpg" width="200px" style="margin-top: 1em" alt="">
+			    </a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5fhitruebjb&amp;m=6&amp;c=ff0000&amp;cr1=ffffff&amp;f=lucida_console&amp;l=33" async="async"></script>
+          <span class="text-muted small float-right">active since 7 October 2018</span>
+        </div>
+      </div>
 		</div>
-
-<div class="col-sm-9">
+    <div class="col-sm-9">
 <p>BigEarth is a research project funded by the European Research Council (ERC) Starting Grant for the period 2018-2023, and will be led by <a href="http://www.begumdemir.com" target="_blank">Prof. Dr. Begüm Demir</a> at the <a href="http://www.eecs.tu-berlin.de/menue/faculty_iv_electrical_engineering_and_computer_science/parameter/de/?no_cache=1" target="_blank">Faculty of Electrical Engineering and Computer Science</a>, <a href="https://www.tu-berlin.de" target="_blank">Technische Universität Berlin</a>, Germany.</p>
 
 <p>BigEarth aims to develop a scalable and accurate Earth Observation (EO) image search and retrieval system for an accurate and fast discovery of crucial information for observing Earth from Big EO Archives. It is very important, since during the last decade a huge number of EO satellites with optical and Synthetic Aperture Radar sensors onboard have been launched and advances in satellite systems have increased the amount, variety and spatial/spectral resolution of EO data. This has led to massive EO data archives with huge amount of remote sensing (RS) images, from which retrieving useful information is challenging. In view of that, content based image retrieval (CBIR) has attracted great attention in the RS community. However, existing RS CBIR systems have limitations on: i) characterization of high-level semantic content and spectral information present in RS images, and ii) large-scale RS CBIR problems since their search mechanism is time-demanding and not scalable in operational applications.</p>
@@ -82,10 +90,7 @@ guid: http://www.bigearth.eu/index
 <p>In BigEarth, we address very important scientific and practical problems by focusing on the main challenges of Big EO data on RS image characterization, indexing and search from massive archives. In particular, we develop novel methods and tools, aiming to: 1) characterize and exploit high level semantic content and spectral information present in RS images; 2) extract features directly from the compressed RS images; 3) achieve accurate and scalable RS image indexing and retrieval; and 4) integrate feature representations of different RS image sources into a unified form of feature representation. Moreover, a benchmark archive with high amount of multi-source RS images will be constructed.</p>
 
 <p>BigEarth is an interdisciplinary project between image processing, machine learning and remote sensing. Outputs of BigEarth will highly contribute to the climate change and ecological studies.</p>
-</div>
-
-</div>
-
-</div>
-
+    </div>
+    </div>
+  </div>
 </div>
