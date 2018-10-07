@@ -77,7 +77,7 @@ guid: http://www.bigearth.eu/index
       </div>
       <div class="row">
         <div class="col-12">
-          <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5fhitruebjb&amp;m=6&amp;c=ff0000&amp;cr1=ffffff&amp;f=lucida_console&amp;l=33" async="async"></script>
+          <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5fhitruebjb&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=lucida_console&amp;l=33" async="async"></script>
           <span class="text-muted small float-right">active since 7 October 2018</span>
         </div>
       </div>
