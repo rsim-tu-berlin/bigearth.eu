@@ -56,11 +56,12 @@ guid: http://www.bigearth.eu/publications
 				<img class="publication-image" src="assets/publications/images/SGSSIC-RoySanginetoDemirSebeFinal.jpg" />
 			</div>
 			<div class="col-9">
-				<span class="publication-title">Semantic-Fusion Gans for Semi-Supervised Satellite Image Classification</span>
+				<span class="publication-title">Semantic-Fusion GANs for Semi-Supervised Satellite Image Classification</span>
 				<br />
 				Subhankar Roy, Enver Sangineto, Begüm Demir, Nicu Sebe<br />
 				IEEE International Conference on Image Processing, Athens, Greece, 2018. <br>
 				<a class="publication-icon" href="assets/publications/pdfs/SGSSIC-RoySanginetoDemirSebeFinal.pdf" target="_blank"><i class="publication-icon fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="https://github.com/MLEnthusiast/SFGAN" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
