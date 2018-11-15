@@ -13,6 +13,18 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">			
 			<div class="col-3">
+				<img class="publication-image" src="assets/publications/images/CASEEO-BeretaKoubarakisManegoldStamoulisDemirFinal.png">
+			</div>
+			<div class="col-9">
+				<span class="publication-title">From Big Data to Big Information and Big Knowledge: the Case of Earth Observation Data</span> <br />
+				Konstantina Bereta, Manolis Koubarakis, Stefan Manegold, George Stamoulis, Begüm Demir<br />
+				Proceedings of the 27th ACM International Conference on Information and Knowledge Management, 2018.<br />
+				<a class="publication-icon" href="assets/publications/pdfs/CASEEO-BeretaKoubarakisManegoldStamoulisDemirFinal.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />	
+		<div class="row">			
+			<div class="col-3">
 				<img class="publication-image" src="assets/publications/images/MultiCode-ThomasFinal.png">
 			</div>
 			<div class="col-9">
