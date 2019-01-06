@@ -27,11 +27,11 @@ guid: http://www.bigearth.eu/team
 						<p></p>
 					</div> -->
 					<div class="col-md-12 section4">
-						<a href="https://www.linkedin.com/in/beg%C3%BCm-demir-89626690/" target="_blank">
-							<i class="fa fa-linkedin" aria-hidden="true"></i>
-						</a>
 						<a href="mailto:demir@tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+						<a href="https://www.linkedin.com/in/beg%C3%BCm-demir-89626690/" target="_blank">
+							<i class="fa fa-linkedin" aria-hidden="true"></i>
 						</a>
 						<a href="http://www.begumdemir.com" target="_blank">
 							<i class="fa fa-globe" aria-hidden="true"></i>
@@ -53,11 +53,40 @@ guid: http://www.bigearth.eu/team
 						<p></p>
 					</div> -->
 					<div class="col-md-12 section4">
+						<a href="mailto:gencer.suembuel@tu-berlin.de">
+							<i class="fa fa-envelope" aria-hidden="true"></i>							
+						</a>
 						<a href="http://twitter.com/gencersumbul" target="_blank">
 							<i class="fa fa-twitter" aria-hidden="true"></i>
 						</a>
 						<a href="https://github.com/gencersumbul" target="_blank">
 							<i class="fa fa-github" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/bernhard_foellmer.png">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Bernhard Föllmer</p><br>
+						<h1>PhD Researcher</h1><br>
+					</div>
+					<!-- <div class="col-md-12 section3">
+						<p></p>
+					</div> -->
+					<div class="col-md-12 section4">
+						<a href="mailto:bernhard.foellmer@tu-berlin.de">
+							<i class="fa fa-envelope" aria-hidden="true"></i>							
+						</a>
+						<a href="https://github.com/Berni1557" target="_blank">
+							<i class="fa fa-github" aria-hidden="true"></i>
+						</a>
+						<a href="http://www.bernifoellmer.com" target="_blank">
+							<i class="fa fa-globe" aria-hidden="true"></i>
 						</a>
 					</div>
 				</div>
@@ -82,6 +111,26 @@ guid: http://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/gozde_ayse_tataroglu.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Gözde Ayşe Tataroğlu</p><br>
+						<h1>PhD Researcher</h1><br>
+					</div>
+					<!-- <div class="col-md-12 section3">
+						<p></p>
+					</div> -->
+					<div class="col-md-12 section4">
+						<a href="mailto:g.tataroglu@campus.tu-berlin.de">
+							<i class="fa fa-envelope" aria-hidden="true"></i>							
+						</a>
+					</div>
+				</div>
+			</div>
 			<!-- --> 
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
@@ -96,31 +145,11 @@ guid: http://www.bigearth.eu/team
 						<p></p>
 					</div> -->
 					<div class="col-md-12 section4">
-						<a href="https://www.linkedin.com/in/farnoush-rezaei-jafari-19b21aa1/" target="_blank">
-							<i class="fa fa-linkedin" aria-hidden="true"></i>
-						</a>
 						<a href="mailto:rezaeijafari@campus.tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
-					</div>
-				</div>
-			</div>
-			<!-- -->
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
-						<img src="assets/team/anon_user.jpg">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Nadine May</p><br>
-						<h1>Administrative Assistant</h1><br>
-					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
-					<div class="col-md-12 section4">
-						<a href="mailto:nadine.i.pissors@campus.tu-berlin.de">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
+						<a href="https://www.linkedin.com/in/farnoush-rezaei-jafari-19b21aa1/" target="_blank">
+							<i class="fa fa-linkedin" aria-hidden="true"></i>
 						</a>
 					</div>
 				</div>
