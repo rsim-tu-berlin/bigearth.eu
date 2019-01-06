@@ -63,15 +63,15 @@ guid: http://www.bigearth.eu/index
       <div class="row">
         <div class="col-12">
     			<a href="https://erc.europa.eu" target="_blank">
-    				<img class="img-fluid float-left pb-3 d-none d-lg-block" src="./assets/images/ERC_logo_339px.png" width="200px" alt="">
+    				<img class="img-fluid float-left pb-3 d-lg-block" src="./assets/images/ERC_logo_339px.png" width="200px" alt="">
     			</a>
     			<br>
     			<a href="https://europa.eu/european-union/index_en" target="_blank">
-    				<img class="img-fluid float-left pb-3 d-none d-lg-block" src="./assets/images/EU_flag.jpg" width="200px" alt="">
+    				<img class="img-fluid float-left pb-3 d-lg-block" src="./assets/images/EU_flag.jpg" width="200px" alt="">
     			</a>
     			<br>
     			<a href="https://www.tu-berlin.de" target="_blank">
-    				<img class="img-fluid float-left pb-3 d-none d-lg-block center-block" src="./assets/images/logo_tu_berlin.jpg" width="200px" style="margin-top: 1em" alt="">
+    				<img class="img-fluid float-left pb-3 d-lg-block center-block" src="./assets/images/logo_tu_berlin.jpg" width="200px" style="margin-top: 1em" alt="">
 			    </a>
         </div>
       </div>
