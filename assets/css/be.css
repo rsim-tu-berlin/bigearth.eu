@@ -106,3 +106,9 @@ a {
   color: rgba(241, 90, 36, 1.0);
 }
 
+@media (max-width: 992px) {
+  .navbar-brand img {
+    -webkit-filter: brightness(0) invert(1);
+    filter: brightness(0) invert(1);
+  }
+}
