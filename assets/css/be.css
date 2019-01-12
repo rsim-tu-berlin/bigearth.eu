@@ -22,6 +22,24 @@ h1 {
   font-size: 4rem;
 }
 
+h2 { 
+  color: rgba(241, 90, 36);
+}
+
+hr.divider { 
+  border-color: rgba(241, 90, 36);
+  max-width: 250px;
+}
+
+ul li {
+  color: rgba(241, 90, 36); 
+  /*color: blue;*/
+}
+
+a { 
+  color: rgba(241, 90, 36, 1.0);
+}
+
 .tagline-upper {
   font-size: 5rem;
   font-weight: 700;
@@ -53,11 +71,6 @@ h1 {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
-hr.divider {
-  border-color: #292b2c;
-  max-width: 250px;
-}
-
 .map-container iframe {
   pointer-events: none;
 }
@@ -80,16 +93,6 @@ hr.divider {
   background-color: rgba(241, 90, 36, 0.9);
 }
 
-
-hr.divider { 
-  border-color: rgba(241, 90, 36);
-  max-width: 250px;
-}
-
-h2 { 
-  color: rgba(241, 90, 36);
-}
-
 .text-dabebe {
   color: #dabebe;
 }
@@ -102,9 +105,7 @@ h2 {
     color: rgba(0, 0, 0, 1.0);
 }
 
-a { 
-  color: rgba(241, 90, 36, 1.0);
-}
+
 
 @media (max-width: 992px) {
   .navbar-brand img {
@@ -112,3 +113,7 @@ a {
     filter: brightness(0) invert(1);
   }
 }
+
+
+
+
