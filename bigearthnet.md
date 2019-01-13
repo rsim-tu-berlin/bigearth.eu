@@ -66,6 +66,15 @@ guid: http://www.bigearth.eu/bigearthnet
   					<div class="card-body"><small>Discontinuous urban fabric, Construction sites, Green urban areas</small></div>
 				</div>
 			</div>
+			<div class="col-md-3 col-sm-3 col-xs-12 text-center">
+				<div class="card" >
+					<img class="card-img-top" src="./assets/images/bigearthnet/Image_8.jpg" alt="Coniferous forest, Mixed forest, Transitional woodland/shrub, Water bodies">
+  					<div class="card-body"><small>Coniferous forest, Mixed forest, Transitional woodland/shrub, Water bodies</small></div>
+				</div>
+			</div>
+
+
+
 		</div>
     </div>
 </div>
