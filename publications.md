@@ -30,7 +30,7 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-9">
 				<span class="publication-title">An Unsupervised Multicode Hashing Method for Accurate and Scalable Remote Sensing Image Retrieval</span> <br />
 				Thomas Reato, Begüm Demir, Lorenzo Bruzzone <br />
-				IEEE Geoscience and Remote Sensing Letters, accepted for publication.<br />
+				IEEE Geoscience and Remote Sensing Letters, vol. 16, no. 2, pp. 276- 280, Feb 2019.<br />
 				<a class="publication-icon" href="assets/publications/pdfs/MCH-ReatoDemirBruzzone.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="http://bigearth.eu/datasets.html" target="_blank"><i class="fa fa-database text-color-be"></i></a>
 			</div>
