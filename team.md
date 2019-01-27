@@ -115,17 +115,17 @@ guid: http://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/gozde_ayse_tataroglu.jpg">
+						<img src="assets/team/yakun_li.png">
 					</div>
 					<div class="col-md-12 section2">
-						<p>Gözde Ayşe Tataroğlu</p><br>
+						<p>Yakun Li</p><br>
 						<h1>PhD Researcher</h1><br>
 					</div>
 					<!-- <div class="col-md-12 section3">
 						<p></p>
 					</div> -->
 					<div class="col-md-12 section4">
-						<a href="mailto:g.tataroglu@campus.tu-berlin.de">
+						<a href="mailto:yakun.li@tu-berlin.de">
 							<i class="fa fa-envelope" aria-hidden="true"></i>							
 						</a>
 					</div>
