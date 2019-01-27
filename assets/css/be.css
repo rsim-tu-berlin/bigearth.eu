@@ -33,7 +33,7 @@ hr.divider {
 
 ul li {
   color: rgba(241, 90, 36); 
-  list-style-type: square;
+  /*  list-style-type: square;*/
 }
 
 a, a:hover { 
@@ -105,15 +105,9 @@ a, a:hover {
     color: rgba(0, 0, 0, 1.0);
 }
 
-
-
 @media (max-width: 992px) {
   .navbar-brand img {
     -webkit-filter: brightness(0) invert(1);
     filter: brightness(0) invert(1);
   }
 }
-
-
-
-

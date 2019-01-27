@@ -128,6 +128,12 @@ guid: http://www.bigearth.eu/team
 						<a href="mailto:yakun.li@tu-berlin.de">
 							<i class="fa fa-envelope" aria-hidden="true"></i>							
 						</a>
+						<a href="https://www.linkedin.com/in/li-yakun-10592099/" target="_blank">
+							<i class="fa fa-linkedin" aria-hidden="true"></i>
+						</a>
+						<a href="https://github.com/liyakun" target="_blank">
+							<i class="fa fa-github" aria-hidden="true"></i>
+						</a>
 					</div>
 				</div>
 			</div>
