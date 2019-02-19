@@ -19,8 +19,8 @@ guid: http://www.bigearth.eu/bigearthnet
 
 <div class="bg-faded p-4 my-4">
 	<div class="bg-faded p-4 my-4">
-		<p><span class="text-color-be">BigEarthNet</span> - <a href="http://www/bigearth.net" target="_blank">A New Large-Scale Sentinel-2 Benchmark Archive</a></p>
-		<p>The BigEarthNet archive contains 590,326 Sentinel-2 image patches with multiple annotations. Examples of patches are given below. For more details, please visit <a href="http://www/bigearth.net" target="_blank">BigEarth.Net</a></p>
+		<p><span class="text-color-be">BigEarthNet</span> - <a href="http://bigearth.net" target="_blank">A New Large-Scale Sentinel-2 Benchmark Archive</a></p>
+		<p>The BigEarthNet archive contains 590,326 Sentinel-2 image patches with multiple annotations. Examples of patches are given below. For more details, please visit <a href="http://bigearth.net" target="_blank">BigEarth.Net</a></p>
 		<div class="row card-deck-row mb-4">
 			<div class="col-md-3 col-sm-3 col-xs-12 text-center">
 				<div class="card" >
