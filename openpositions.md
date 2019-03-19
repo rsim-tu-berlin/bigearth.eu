@@ -11,11 +11,7 @@ guid: http://www.bigearth.eu/openpositions
 	<p>
 		<ul class="">
 			<li class="">
-	    	<a href="https://tub.stellenticket.de/de/offers/60026" target="_blank">Fremd­spra­chen­se­kre­tär/in - 50 % Arbeits­zeit - Ent­gelt­gruppe 7 TV-L Ber­li­ner Hoch­schu­len
-	    	</a>
-			</li>
-			<li class="">
-			<a href="https://tub.stellenticket.de/de/offers/61028/" target="_blank">Research Assist­ant (PostDoc) - salary grade E 13 TV-L Ber­liner Hoch­schu­len</a>	
+			<a href="https://tub.stellenticket.de/de/offers/62418/" target="_blank">Research Assist­ant (PostDoc) - salary grade E 13 TV-L Ber­liner Hoch­schu­len</a>	
 			</li>
 		</ul>
 	 </p>
