@@ -33,6 +33,7 @@ guid: http://www.bigearth.eu/publications
 				Gencer Sumbul, Begüm Demir<br />
 				IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.<br />
 				<a class="publication-icon" href="assets/publications/pdfs/CNN_RNN_IGARSS.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="http://bigearth.net" target="_blank"><i class="fa fa-database text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
