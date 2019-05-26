@@ -11,6 +11,30 @@ guid: http://www.bigearth.eu/publications
 			<b>Note:</b> This publication list includes only BigEarth-related publications. For the full list, please <a href="http://begumdemir.com/papers.html" target="_blank">see</a>. PDFs given in this web page are the authors' draft versions of the related papers.
 		</p>
 		<hr />
+		<div class="row">
+			<div class="col-3">
+				<img class="publication-image" src="assets/publications/images/BigEarthNet_IGARSS_2019.png">
+			</div>
+			<div class="col-9">
+				<span class="publication-title">BigEarthNet: A large-scale benchmark archive for remote sensing image understanding</span> <br />
+				Gencer Sumbul, Marcela Charfuelan, Begüm Demir, Volker Markl<br />
+				IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.<br />
+				<a class="publication-icon" href="assets/publications/pdfs/BigEarthNet_IGARSS_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
+				<img class="publication-image" src="assets/publications/images/CNN_RNN_IGARSS.png">
+			</div>
+			<div class="col-9">
+				<span class="publication-title">A Novel Multi-Attention Driven System for Multi-Label Remote Sensing Image Classification</span> <br />
+				Gencer Sumbul, Begüm Demir<br />
+				IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.<br />
+				<a class="publication-icon" href="assets/publications/pdfs/CNN_RNN_IGARSS.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
 		<div class="row">			
 			<div class="col-3">
 				<img class="publication-image" src="assets/publications/images/CASEEO-BeretaKoubarakisManegoldStamoulisDemirFinal.png">
