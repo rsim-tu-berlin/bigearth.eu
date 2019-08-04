@@ -56,6 +56,12 @@ guid: http://www.bigearth.eu/team
 						<a href="mailto:jian.kang@tu-berlin.de ">
 							<i class="fa fa-envelope" aria-hidden="true"></i>							
 						</a>
+						<a href="https://www.linkedin.com/in/jian-kang-151028170/" target="_blank">
+							<i class="fa fa-linkedin" aria-hidden="true"></i>
+						</a>
+						<a href="https://github.com/jiankang1991" target="_blank">
+							<i class="fa fa-github" aria-hidden="true"></i>
+						</a>
 					</div>
 				</div>
 			</div>
