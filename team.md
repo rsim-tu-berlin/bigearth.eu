@@ -47,7 +47,7 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section2">
 						<p>Jian Kang</p><br>
-						<h1>Post-Doc. Researcher</h1><br>
+						<h1>Researcher</h1><br>
 					</div>
 					<!-- <div class="col-md-12 section3">
 						<p></p>
