@@ -101,9 +101,6 @@ guid: http://www.bigearth.eu/team
 						<p>Tristan Kreuziger</p><br>
 						<h1>PhD Researcher</h1><br>
 					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
 					<div class="col-md-12 section4">
 						<a href="mailto:tristan.kreuziger@tu-berlin.de ">
 							<i class="fa fa-envelope" aria-hidden="true"></i>							
