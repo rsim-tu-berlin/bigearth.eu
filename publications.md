@@ -18,7 +18,7 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-9">
 				<span class="publication-title">BigEarthNet: A large-scale benchmark archive for remote sensing image understanding</span> <br />
 				Gencer Sumbul, Marcela Charfuelan, Begüm Demir, Volker Markl<br />
-				IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.<br />
+				IEEE International Conference on Geoscience and Remote Sensing Symposium, pp. 5901-5904, Yokohama, Japan, 2019.<br />
 				<a class="publication-icon" href="assets/publications/pdfs/BigEarthNet_IGARSS_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
  				<a class="publication-icon" href="http://bigearth.net" target="_blank"><i class="fa fa-database text-color-be"></i></a>
 			</div>
