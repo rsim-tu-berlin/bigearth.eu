@@ -13,7 +13,7 @@ guid: http://www.bigearth.eu/media
 				<img class="publication-image" src="./assets/news/images/dl-models-ben.jpg">
 			</div>
 			<div class="col-9">
-				<b>January 2020</b> - Deep Learning Models trained on BigEarthNet have been released. For the details, please visit this <a href="http://bigearth.net/#downloads">BigEarthNet</a>
+				<b>January 2020</b> - Deep Learning Models trained on BigEarthNet have been released. For the details, please visit <a href="http://bigearth.net/#downloads">BigEarthNet website</a>.
 			</div>
 		</div>
 		<hr />
