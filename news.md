@@ -10,6 +10,15 @@ guid: http://www.bigearth.eu/media
 	<div class="bg-faded p-4 my-4">
 		<div class="row">
 			<div class="col-3">
+				<img class="publication-image" src="./assets/news/images/dl-models-ben.jpg">
+			</div>
+			<div class="col-9">
+				<b>January 2020</b> - Deep Learning Models trained on BigEarthNet have been released. For the details, please visit this <a href="http://bigearth.net/#downloads">BigEarthNet</a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
 				<img class="publication-image" src="./assets/news/images/BigEarthNetRSiM.png">
 			</div>
 			<div class="col-9">
