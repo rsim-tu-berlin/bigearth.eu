@@ -18,7 +18,8 @@ guid: http://www.bigearth.eu/openpositions
 	<h4>Post-doc positions in Deep Learning for Satellite Image Analysis</h4>
  	<div class="row">
 		<div class="col-12">
-		<p>
+			We are looking for a highly motivated Postdoctoral Researcher with a strong record of accomplishment in machine learning and computer vision. Successful candidate will conduct research and develop advanced deep learning based algorithms for satellite image search/retrieval from large-scale data archives and semantic scene understanding. This will entail the development of novel deep learning models that can address the problems on incomplete, noisy and imbalanced training sets for scalable image search, retrieval and classification.
+		<!-- <p>
 			There are currently no open job offers available.<br/>
 
 			If you are a highly motivated postdoctoral researcher interested in working with us, there are several external funding opportunities:
@@ -31,7 +32,7 @@ guid: http://www.bigearth.eu/openpositions
 		</p>
 		<p>
 			Please contact <a href="mailto:demir@tu-berlin.de">Prof. Begum Demir</a> for the details. 
-		 </p>
+		</p>-->
 	<!-- Page Content End -->
     </div>
 </div>
