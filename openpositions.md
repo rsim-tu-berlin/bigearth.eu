@@ -29,10 +29,10 @@ guid: http://www.bigearth.eu/openpositions
 				<li><a href="https://www.dfg.de/en/research_funding/programmes/individual/walter_benjamin/index.html" target="_blank">DFG Walter Benjamin Programme</a>.</li>
 				<li><a href="https://www.humboldt-foundation.de/web/humboldt-fellowship-postdoc.html" target="_blank">Humboldt Research Fellowship</a>.</li>
 			</ol>
-		</p>
+		</p>-->
 		<p>
 			Please contact <a href="mailto:demir@tu-berlin.de">Prof. Begum Demir</a> for the details. 
-		</p>-->
+		</p>
 	<!-- Page Content End -->
     </div>
 </div>
