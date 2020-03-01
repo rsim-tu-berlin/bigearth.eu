@@ -13,6 +13,42 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-3">
+				<img class="publication-image" src="./assets/images/bigearth.png">
+			</div>
+			<div class="col-9">
+				<span class="publication-title">A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives</span> <br />
+				Akshara Preethy Byju, Begüm Demir, Lorenzo Bruzzone<br />
+				IEEE Transactions on Geoscience and Remote Sensing, in press, 2020.<br />
+				<a class="publication-icon" href="assets/publications/pdfs/PCBIR_2020.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
+				<img class="publication-image" src="assets/publications/images/URSIRuPLSH.png">
+			</div>
+			<div class="col-9">
+				<span class="publication-title">Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing</span><br />
+				Ruben Fernandez-Beltran, Begüm Demir, Filiberto Pla, Antonio Plaza<br />
+				IEEE Geoscience and Remote Sensing Letters, in press, 2020.<br />
+				<a class="publication-icon" href="#" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
+				<img class="publication-image" src="assets/publications/images/MiLAN.png">
+			</div>
+			<div class="col-9">
+				<span class="publication-title">Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images</span><br />
+				Suphankar Roy, Enver Sangineto, Begüm Demir, Nicu Sebe<br />
+				IEEE Geoscience and Remote Sensing Letters, in press, 2020.<br />
+				<a class="publication-icon" href="https://arxiv.org/abs/1904.01258" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
 				<img class="publication-image" src="assets/publications/images/BigEarthNet_IGARSS_2019.png">
 			</div>
 			<div class="col-9">
