@@ -31,7 +31,7 @@ guid: http://www.bigearth.eu/publications
 				<span class="publication-title">Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing</span><br />
 				Ruben Fernandez-Beltran, Begüm Demir, Filiberto Pla, Antonio Plaza<br />
 				IEEE Geoscience and Remote Sensing Letters, in press, 2020.<br />
-				<a class="publication-icon" href="#" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="assets/publications/pdfs/GRSL_Probabilistic_Latent_Semantic_Hashing_Codes_2020.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
