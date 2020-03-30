@@ -8,11 +8,6 @@ guid: http://www.bigearth.eu/team
 
 <div class="bg-faded p-4 my-4">
 	<div class="bg-faded p-4 my-4">
-		<!-- <div class="row">
-			<div class="col-md-12 col-sm-12 col-xs-12 ourTeam-hedding text-center">
-				<h1>Meet Our Team</h1>
-			</div>
-		</div> -->
 		<div class="row">
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
@@ -164,26 +159,6 @@ guid: http://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/biljan_sophia.jpg">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Sophia Biljan</p><br>
-						<h1>Research Assistant</h1><br>
-					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
-					<div class="col-md-12 section4">
-						<a href="mailto:s.biljan@campus.tu-berlin.de" target="_blank">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<!-- --> 
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
 						<img src="assets/team/jlha.png">
 					</div>
 					<div class="col-md-12 section2">
@@ -219,6 +194,49 @@ guid: http://www.bigearth.eu/team
 					<div class="col-md-12 section4">
 						<a href="mailto:adela.westedt@tu-berlin.de">
 							<i class="fa fa-envelope" aria-hidden="true"></i>							
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="bg-faded p-4 my-4">
+		<div class="row">
+			<div class="col-md-12 col-sm-12 col-xs-12">
+				<h4>Alumni</h4>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/biljan_sophia.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Sophia Biljan</p><br>
+						<h1>Research Assistant</h1><br>
+					</div>
+					<!-- <div class="col-md-12 section3">
+						<p></p>
+					</div> -->
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/bernhard_foellmer.png">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Bernhard Föllmer</p><br>
+						<h1>PhD Researcher</h1><br>
+					</div>
+					<!-- <div class="col-md-12 section3">
+						<p></p>
+					</div> -->
+					<div class="col-md-12 section4">
+						<a href="http://www.bernifoellmer.com" target="_blank">
+							<i class="fa fa-globe" aria-hidden="true"></i>
 						</a>
 					</div>
 				</div>
