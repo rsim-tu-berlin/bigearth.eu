@@ -8,13 +8,6 @@ guid: http://www.bigearth.eu/openpositions
 <div class="bg-faded p-4 my-4">
 	<div class="bg-faded p-4 my-4">
 	<!-- Page Content -->
-	<h4>PhD position in querying large-scale satellite image archives in the compressed domain</h4>
- 	<div class="row">
-		<div class="col-12">
-			We are looking for highly motivated PhD candidates to join the <a href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank">Remote Sensing Image Analysis (RSiM)</a> group at the Faculty of Electrical Engineering and Computer Science, Technische Universität Berlin, Germany. The research of the PhD candidates will aim at the participation in the research activities of the Remote Sensing Image Analysis (RSiM) group in the field of machine learning and big data management for earth observation and the development of image search and retrieval methods and systems for querying large-scale satelilite image archives in the compressed domain. Developed methods will aim at enabling accurate and scalable image indexing and retrieval by efficiently characterizing the high-spectral and spatial information. Very good command of German and English is required. For details, please visit this <a href="https://tub.stellenticket.de/de/offers/75545/" target="_blank">link</a>.
-		</div>
-	</div>
-	<br />
 	<h4>Post-doc positions in Deep Learning for Satellite Image Analysis</h4>
  	<div class="row">
 		<div class="col-12">
@@ -31,7 +24,7 @@ guid: http://www.bigearth.eu/openpositions
 			</ol>
 		</p>-->
 		<p>
-			Please contact <a href="mailto:demir@tu-berlin.de">Prof. Begum Demir</a> for the details. 
+			For details, please visit this <a href="https://stellenticket.de/79175/TUB/?lang=en" target="_blank">link</a>. 
 		</p>
 	<!-- Page Content End -->
     </div>
