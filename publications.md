@@ -54,7 +54,7 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-9">
 				<span class="publication-title">BigEarthNet: A large-scale benchmark archive for remote sensing image understanding</span> <br />
 				Gencer Sumbul, Marcela Charfuelan, Begüm Demir, Volker Markl<br />
-				IEEE International Conference on Geoscience and Remote Sensing Symposium, pp. 5901-5904, Yokohama, Japan, 2019.<br />
+				IEEE International Geoscience and Remote Sensing Symposium, pp. 5901-5904, Yokohama, Japan, 2019.<br />
 				<a class="publication-icon" href="assets/publications/pdfs/BigEarthNet_IGARSS_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
  				<a class="publication-icon" href="http://bigearth.net" target="_blank"><i class="fa fa-database text-color-be"></i></a>
 			</div>
@@ -67,7 +67,7 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-9">
 				<span class="publication-title">A Novel Multi-Attention Driven System for Multi-Label Remote Sensing Image Classification</span> <br />
 				Gencer Sumbul, Begüm Demir<br />
-				IEEE International Conference on Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.<br />
+				IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Japan, 2019.<br />
 				<a class="publication-icon" href="assets/publications/pdfs/CNN_RNN_IGARSS.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="http://bigearth.net" target="_blank"><i class="fa fa-database text-color-be"></i></a>
 			</div>
@@ -119,7 +119,7 @@ guid: http://www.bigearth.eu/publications
 				<span class="publication-title">Deep Metric and Hash-Code Learning for Content-Based Retrieval of Remote Sensing Images</span>
 				<br />
 				Subhankar Roy, Enver Sangineto, Begüm Demir, Nicu Sebe<br />
-				IEEE International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018. <br>
+				IEEE International Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018. <br>
 				<a class="publication-icon" href="assets/publications/pdfs/MHCLN-RoySanginetoDemirSebeFinal.pdf" target="_blank"><i class="publication-icon fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="https://github.com/MLEnthusiast/MHCLN" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
@@ -147,7 +147,7 @@ guid: http://www.bigearth.eu/publications
 				<span class="publication-title">Advanced Local Binary Patterns for Remote Sensing Image Retrieval</span>
 				<br />
 				Issayas Tekeste Mirach, Begüm Demir<br />
-				IEEE International Conference on Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.<br>
+				IEEE International Geoscience and Remote Sensing Symposium, Valencia, Spain, 2018.<br>
 				<a class="publication-icon" href="assets/publications/pdfs/Advanced-Local-Binary-Patterns-for-Remote-Sensing-Image-Retrieval.pdf" target="_blank"><i class="publication-icon fa fa-file-pdf-o text-color-be"></i></a>
 			</div>
 		</div>
