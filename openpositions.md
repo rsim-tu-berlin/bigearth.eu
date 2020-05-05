@@ -24,7 +24,7 @@ guid: http://www.bigearth.eu/openpositions
 			</ol>
 		</p>-->
 		<p>
-			For details, please contact <a href="mailto:demir@tu-berlin.de">demir@tu-berlin.de</a>. 
+			For details, please contact Prof. Demir (<a href="mailto:demir@tu-berlin.de">demir@tu-berlin.de</a>). 
 		</p>
 	<!-- Page Content End -->
     </div>
