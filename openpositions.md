@@ -24,7 +24,7 @@ guid: http://www.bigearth.eu/openpositions
 			</ol>
 		</p>-->
 		<p>
-			For details, please visit this <a href="https://stellenticket.de/79175/TUB/?lang=en" target="_blank">link</a>. 
+			For details, please contact <a href="mailto:demir@tu-berlin.de">demir@tu-berlin.de</a>. 
 		</p>
 	<!-- Page Content End -->
     </div>
