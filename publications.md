@@ -13,6 +13,19 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-3">
+				<img class="publication-image" src="assets/publications/images/MAML-RSIC.png">
+			</div>
+			<div class="col-9">
+				<span class="publication-title">A Deep Multi-Attention Driven Approach for Multi-Label Remote Sensing Image Classification</span> <br />
+				Gencer Sumbul, Begüm Demir<br />
+				IEEE Access, vol. 8, pp. 95934-95946, 2020.<br />
+				<a class="publication-icon" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9096309" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="https://gitlab.tubit.tu-berlin.de/rsim/MAML-RSIC" target="_blank"><i class="fa fa-github text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
 				<img class="publication-image" src="./assets/images/bigearth.png">
 			</div>
 			<div class="col-9">
