@@ -13,7 +13,7 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image" src="assets/publications/images/MAML-RSIC.png">
+				<img class="publication-image" src="assets/publications/images/MAML-RSIC.jpg">
 			</div>
 			<div class="col-9">
 				<span class="publication-title">A Deep Multi-Attention Driven Approach for Multi-Label Remote Sensing Image Classification</span> <br />
