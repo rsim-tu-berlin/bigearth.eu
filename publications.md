@@ -13,6 +13,17 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-3">
+				<img class="publication-image" src="assets/publications/images/JPEG2000-Compressed-ByjuSumbulDemirBruzzone.png">
+			</div>
+			<div class="col-9">
+				<span class="publication-title">Remote Sensing Image Scene Classiﬁcation with Deep Neural Networks in JPEG 2000 Compressed Domain</span> <br />
+				Akshara Preethy Byju, Gencer Sumbul, Begüm Demir, Lorenzo Bruzzone<br />
+				IEEE Transactions on Geoscience and Remote Sensing, In press, 2020.<br />
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
 				<img class="publication-image" src="assets/publications/images/MAML-RSIC.jpg">
 			</div>
 			<div class="col-9">
