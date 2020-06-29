@@ -38,32 +38,6 @@ guid: http://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/jiankang.png">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Jian Kang</p><br>
-						<h1>PostDoc Researcher</h1><br>
-					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
-					<div class="col-md-12 section4">
-						<a href="mailto:jian.kang@tu-berlin.de">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
-						</a>
-						<a href="https://www.linkedin.com/in/jian-kang-151028170/" target="_blank">
-							<i class="fa fa-linkedin" aria-hidden="true"></i>
-						</a>
-						<a href="https://github.com/jiankang1991" target="_blank">
-							<i class="fa fa-github" aria-hidden="true"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<!-- -->			
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
 						<img src="assets/team/mahdyar_ravan.png">
 					</div>
 					<div class="col-md-12 section2">
