@@ -119,9 +119,6 @@ guid: http://www.bigearth.eu/team
 						<p>Akshara Preethy Byju</p><br>
 						<h1>PhD Researcher</h1><br>
 					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
 					<div class="col-md-12 section4">
 						<a href="mailto:akshara.preethybyju@unitn.it">
 							<i class="fa fa-envelope" aria-hidden="true"></i>							
@@ -139,9 +136,6 @@ guid: http://www.bigearth.eu/team
 						<p>Jose Luis Holgado Alvarez</p><br>
 						<h1>Research Assistant</h1><br>
 					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
 					<div class="col-md-12 section4">
 						<a href="mailto:jose.l.holgadoalvarez@campus.tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
@@ -162,9 +156,6 @@ guid: http://www.bigearth.eu/team
 						<p>Tom Burgert</p><br>
 						<h1>Research Assistant</h1><br>
 					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
 					<div class="col-md-12 section4">
 						<a href="mailto:tom.o.burgert@campus.tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
@@ -182,9 +173,6 @@ guid: http://www.bigearth.eu/team
 						<p>Adela Westedt</p><br>
 						<h1>System Administration</h1><br>
 					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
 					<div class="col-md-12 section4">
 						<a href="mailto:adela.westedt@tu-berlin.de">
 							<i class="fa fa-envelope" aria-hidden="true"></i>							
@@ -210,9 +198,6 @@ guid: http://www.bigearth.eu/team
 						<p>Sophia Biljan</p><br>
 						<h1>Research Assistant</h1><br>
 					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
 				</div>
 			</div>
 			<!-- -->
@@ -225,9 +210,6 @@ guid: http://www.bigearth.eu/team
 						<p>Bernhard Föllmer</p><br>
 						<h1>PhD Researcher</h1><br>
 					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
 					<div class="col-md-12 section4">
 						<a href="http://www.bernifoellmer.com" target="_blank">
 							<i class="fa fa-globe" aria-hidden="true"></i>
