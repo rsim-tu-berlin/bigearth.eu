@@ -43,7 +43,7 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-9">
 				<span class="publication-title">A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives</span> <br />
 				Akshara Preethy Byju, Begüm Demir, Lorenzo Bruzzone<br />
-				IEEE Transactions on Geoscience and Remote Sensing, in press, 2020.<br />
+				IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 8, pp. 5739-5751, 2020.<br />
 				<a class="publication-icon" href="assets/publications/pdfs/PCBIR_2020.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 			</div>
 		</div>
