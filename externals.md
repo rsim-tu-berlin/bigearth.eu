@@ -41,7 +41,7 @@ guid: http://www.bigearth.eu/externals
 			<div class="col-lg-9 col-lg-12-push">
 				<a href="https://www.linkedin.com/in/shane-keller-ba891315/" target="_blank">Shane Keller</a>
 				<br/>
-				<a href="https://towardsdatascience.com/outperforming-google-cloud-automl-vision-with-tensorflow-and-google-deep-learning-vm-34a45e3860ae" target="_blank">Detecting clouds in satellite images with Deep Learning</a>
+				<a href="https://towardsdatascience.com/outperforming-google-cloud-automl-vision-with-tensorflow-and-google-deep-learning-vm-34a45e3860ae" target="_blank">Detecting Clouds in Satellite Images with Deep Learning</a>
 				<br/>
 				GitHub Repository: <a href="https://github.com/skeller88/deep_learning_project" target="_blank">https://github.com/skeller88/deep_learning_project</a>
 			</div>
