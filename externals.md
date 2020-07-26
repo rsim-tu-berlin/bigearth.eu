@@ -12,7 +12,7 @@ guid: http://www.bigearth.eu/externals
 		</p>
 		<h4></h4>
 		<p>
-			<b>About BigEarthNet:</b> The BigEarthNet archive was constructed by the Remote Sensing Image Analysis (RSiM) Group and the Database Systems and Information Management (DIMA) Group at the Technische Universität Berlin (TU Berlin). This work is supported by the European Research Council under the ERC Starting Grant BigEarth and by the German Ministry for Education and Research as Berlin Big Data Center (BBDC).
+			<b>About BigEarthNet:</b> The BigEarthNet archive was constructed by the Remote Sensing Image Analysis (<a href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank">RSiM</a>) Group and the Database Systems and Information Management (<a href="https://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/" target="_blank">DIMA</a>) Group at the Technische Universität Berlin (TU Berlin). This work is supported by the European Research Council under the ERC Starting Grant `BigEarth` and by the German Ministry for Education and Research as Berlin Big Data Center (<a href="http://www.bbdc.berlin/home/" target="_blank">BBDC</a>).
 		</p>
 		<p>
 			For the details about BigEarthNet, please visit <a href="http://bigearth.net" target="_blank">BigEarthNet</a>.
