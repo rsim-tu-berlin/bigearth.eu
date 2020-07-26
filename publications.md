@@ -12,8 +12,8 @@ guid: http://www.bigearth.eu/publications
 		</p>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/JPEG2000-Compressed-ByjuSumbulDemirBruzzone.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/JPEG2000-Compressed-ByjuSumbulDemirBruzzone.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Remote Sensing Image Scene Classiﬁcation with Deep Neural Networks in JPEG 2000 Compressed Domain</span> <br />
@@ -24,8 +24,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/MAML-RSIC.jpg">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/MAML-RSIC.jpg">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">A Deep Multi-Attention Driven Approach for Multi-Label Remote Sensing Image Classification</span> <br />
@@ -37,8 +37,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="./assets/images/bigearth.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="./assets/images/bigearth.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">A Progressive Content Based Image Retrieval in JPEG 2000 Compressed Remote Sensing Archives</span> <br />
@@ -49,8 +49,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/URSIRuPLSH.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/URSIRuPLSH.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing</span><br />
@@ -61,8 +61,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/MiLAN.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/MiLAN.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images</span><br />
@@ -73,8 +73,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/BigEarthNet_IGARSS_2019.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/BigEarthNet_IGARSS_2019.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">BigEarthNet: A large-scale benchmark archive for remote sensing image understanding</span> <br />
@@ -86,8 +86,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/CNN_RNN_IGARSS.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/CNN_RNN_IGARSS.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">A Novel Multi-Attention Driven System for Multi-Label Remote Sensing Image Classification</span> <br />
@@ -99,8 +99,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">			
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/CASEEO-BeretaKoubarakisManegoldStamoulisDemirFinal.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/CASEEO-BeretaKoubarakisManegoldStamoulisDemirFinal.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">From Big Data to Big Information and Big Knowledge: the Case of Earth Observation Data</span> <br />
@@ -111,8 +111,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />	
 		<div class="row">			
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/MultiCode-ThomasFinal.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/MultiCode-ThomasFinal.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">An Unsupervised Multicode Hashing Method for Accurate and Scalable Remote Sensing Image Retrieval</span> <br />
@@ -124,8 +124,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />		
 		<div class="row">			
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/BoSV-DaiSankurDemirFinal.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/BoSV-DaiSankurDemirFinal.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">A Novel System for Content based Retrieval of Single and Multi-Label High Dimensional Remote Sensing Images</span> <br />
@@ -137,8 +137,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/MHCLN-RoySanginetoDemirSebeFinal.png" />
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/MHCLN-RoySanginetoDemirSebeFinal.png" />
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Deep Metric and Hash-Code Learning for Content-Based Retrieval of Remote Sensing Images</span>
@@ -151,8 +151,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/SGSSIC-RoySanginetoDemirSebeFinal.jpg" />
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/SGSSIC-RoySanginetoDemirSebeFinal.jpg" />
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Semantic-Fusion GANs for Semi-Supervised Satellite Image Classification</span>
@@ -165,8 +165,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="./assets/images/bigearth.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="./assets/images/bigearth.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Advanced Local Binary Patterns for Remote Sensing Image Retrieval</span>
@@ -178,8 +178,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/MLAL-BayableFinal.png" />
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/MLAL-BayableFinal.png" />
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">A Novel Active Learning Technique for Multilabel Remote Sensing Image Scene Classification</span>
@@ -190,8 +190,8 @@ guid: http://www.bigearth.eu/publications
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="assets/publications/images/CtF-AksharaFinal.png" />
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/CtF-AksharaFinal.png" />
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">A Novel Coarse-to-Fine Remote Sensing Image Retrieval System in JPEG-2000 Compressed Domain</span>

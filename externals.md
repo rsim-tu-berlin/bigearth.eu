@@ -22,8 +22,8 @@ guid: http://www.bigearth.eu/externals
 		</p>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="./assets/externals/images/radiant-earth.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="./assets/externals/images/radiant-earth.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<a href="https://www.radiant.earth" target="_blank">Radiant Earth Team</a>
@@ -35,8 +35,8 @@ guid: http://www.bigearth.eu/externals
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="./assets/externals/images/detecting-clouds.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="./assets/externals/images/detecting-clouds.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<a href="https://www.linkedin.com/in/shane-keller-ba891315/" target="_blank">Shane Keller</a>
@@ -48,8 +48,8 @@ guid: http://www.bigearth.eu/externals
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="./assets/externals/images/satim-net.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="./assets/externals/images/satim-net.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				Vasileios Syrris, Ondrej Pesek, Pierre Soille
@@ -61,8 +61,8 @@ guid: http://www.bigearth.eu/externals
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="./assets/externals/images/google-earth-engine.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="./assets/externals/images/google-earth-engine.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				Google Earth Engine BigEarthNet Catalog
@@ -72,8 +72,8 @@ guid: http://www.bigearth.eu/externals
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
-				<img class="publication-image" src="./assets/externals/images/tensorflow.png">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="./assets/externals/images/tensorflow.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				TensorFlow Open Source Library
