@@ -59,7 +59,28 @@ guid: http://www.bigearth.eu/externals
 				GitHub Repository: TBD
 			</div>
 		</div>
-
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
+				<img class="publication-image" src="./assets/externals/images/google-earth-engine.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				Google Earth Engine Data Catalogue
+				<br/>
+				<a href="https://developers.google.com/earth-engine/datasets/catalog/TUBerlin_BigEarthNet_v1" target="_blank">TUBerlin/BigEarthNet/v1</a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
+				<img class="publication-image" src="./assets/externals/images/tensorflow.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				Tensorflow
+				<br/>
+				<a href="https://www.tensorflow.org/datasets/catalog/bigearthnet" target="_blank">bigearthnet</a>
+			</div>
+		</div>
 	</div>
 </div>
 
