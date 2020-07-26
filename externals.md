@@ -8,7 +8,7 @@ guid: http://www.bigearth.eu/externals
 <div class="bg-faded p-4 my-4">
 	<div class="bg-faded p-4 my-4">
 		<p>
-			This page is devoted to list the BigEarthNet related datasets and tools that are developed by researchers outside from TU Berlin and are publicly available.
+			This page is devoted to list the BigEarthNet related datasets and tools that are developed by researchers outside from <a href="https://tu.berlin" target="_blank">TU Berlin</a> and are publicly available.
 		</p>
 		<h4></h4>
 		<p>
@@ -65,7 +65,7 @@ guid: http://www.bigearth.eu/externals
 				<img class="publication-image" src="./assets/externals/images/google-earth-engine.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
-				Google Earth Engine Data Catalogue
+				Google Earth Engine BigEarthNet Catalog
 				<br/>
 				<a href="https://developers.google.com/earth-engine/datasets/catalog/TUBerlin_BigEarthNet_v1" target="_blank">TUBerlin/BigEarthNet/v1</a>
 			</div>
@@ -76,9 +76,9 @@ guid: http://www.bigearth.eu/externals
 				<img class="publication-image" src="./assets/externals/images/tensorflow.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
-				Tensorflow
+				TensorFlow Open Source Library
 				<br/>
-				<a href="https://www.tensorflow.org/datasets/catalog/bigearthnet" target="_blank">bigearthnet</a>
+				<a href="https://www.tensorflow.org/datasets/catalog/bigearthnet" target="_blank">BigEarthNet Catalog</a>
 			</div>
 		</div>
 	</div>
