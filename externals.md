@@ -22,10 +22,23 @@ guid: http://www.bigearth.eu/externals
 		</p>
 		<hr />
 		<div class="row">
-			<div class="col-3">
+			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
+				<img class="publication-image" src="./assets/externals/images/radiant-earth.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<a href="https://www.radiant.earth" target="_blank">Radiant Earth Team</a>
+				<br/>
+				<a href="https://towardsdatascience.com/outperforming-google-cloud-automl-vision-with-tensorflow-and-google-deep-learning-vm-34a45e3860ae" target="_blank">Radiant MLHub - Open Geospatial Datasets Library</a>
+				<br/>
+				GitHub Repository: <a href="https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/radiant-mlhub-bigearthnet.ipynb" target="_blank">https://github.com/radiantearth/mlhub-tutorials/blob/master/notebooks/radiant-mlhub-bigearthnet.ipynb</a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
 				<img class="publication-image" src="./assets/externals/images/detecting-clouds.png">
 			</div>
-			<div class="col-9">
+			<div class="col-lg-9 col-lg-12-push">
 				<a href="https://www.linkedin.com/in/shane-keller-ba891315/" target="_blank">Shane Keller</a>
 				<br/>
 				<a href="https://towardsdatascience.com/outperforming-google-cloud-automl-vision-with-tensorflow-and-google-deep-learning-vm-34a45e3860ae" target="_blank">Detecting clouds in satellite images with Deep Learning</a>
@@ -35,10 +48,10 @@ guid: http://www.bigearth.eu/externals
 		</div>
 		<hr />
 		<div class="row">
-			<div class="col-3">
+			<div class="col-lg-3 col-lg-12-pull d-flex justify-content-center">
 				<img class="publication-image" src="./assets/externals/images/satim-net.png">
 			</div>
-			<div class="col-9">
+			<div class="col-lg-9 col-lg-12-push">
 				Vasileios Syrris, Ondrej Pesek, Pierre Soille
 				<br/>
 				<a href="https://arxiv.org/abs/2006.10623" target="_blank">SatImNet: Structured and Harmonised Training Data for Enhanced Satellite Imagery Classification</a>
