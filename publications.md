@@ -166,7 +166,7 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image-default" src="./assets/images/bigearth.png">
+				<img class="publication-image" src="./assets/images/bigearth.png">
 			</div>
 			<div class="col-9">
 				<span class="publication-title">Advanced Local Binary Patterns for Remote Sensing Image Retrieval</span>
