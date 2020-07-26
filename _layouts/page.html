@@ -15,15 +15,15 @@
     <meta name="generator" content="Jekyll" /> <!-- leave this for stats please -->
     <meta name="google-site-verification" content="F7LWd0cMakuhPSTcJeM_MBeHtAlrlmRfNAd9bkbWyBA" />
 
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
     <style type="text/css" media="screen">
       @import url( {{base}}/assets/css/style.css );
       @import url( {{base}}/assets/css/be.modal.css );
     </style>
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-
-    <!-- Custom styles for this template -->
     <link href="{{base}}/assets/css/be.css" rel="stylesheet">
 
     <!-- FontAwesome -->
@@ -78,9 +78,18 @@
             <li class="nav-item px-lg-4">
               <a class="nav-link text-uppercase text-expanded" href="datasets">Datasets</a>
             </li>
-            <li class="nav-item px-lg-4">
+<!--             <li class="nav-item px-lg-4">
               <a class="nav-link text-expanded" href="http://bigearth.net" target="_blank">BigEarthNet</a>
+            </li> -->
+
+            <li class="nav-item dropdown">
+              <a class="nav-link active dropdown-toggle" href="papers.html" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">BigEarthNet</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="http://bigearth.net" target="_blank">BigEarthNet</a>
+                <a class="dropdown-item" href="externals">BigEarthNet Externals</a>
+              </div>
             </li>
+
             <li class="nav-item px-lg-4">
               <a class="nav-link text-uppercase text-expanded" href="openpositions">Jobs</a>
             </li>
