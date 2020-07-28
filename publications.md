@@ -18,7 +18,7 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective</span> <br />
 				Genc Hoxha, Begüm Demir, Farid Melgani<br />
-				Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020.
+				IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020.
 			</div>
 		</div>
 		<hr />
