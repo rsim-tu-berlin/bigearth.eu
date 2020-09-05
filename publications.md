@@ -13,6 +13,19 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/S2-cGAN.jpg">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">S2-cGAN: Self-Supervised Adversarial Representation Learning for Binary Change Detection in Multispectral Images</span> <br />
+				Jose Luis Holgado Alvarez, Mahdyar Ravanbakhsh, Begüm Demir<br />
+				IEEE International Geoscience and Remote Sensing Symposium, Hawaii, USA, 2020.<br />
+				<a class="publication-icon" href="https://arxiv.org/abs/2007.02565" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="https://gitlab.tubit.tu-berlin.de/rsim/S2-cGAN" target="_blank"><i class="fa fa-github text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
 				<img class="publication-image mx-auto d-block" src="assets/publications/images/HoxhaDemirMelgani.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
