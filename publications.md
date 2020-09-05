@@ -18,7 +18,7 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning</span><br />
 				Gencer Sumbul, Sonali Nayak, Begüm Demir<br />
-				IEEE Transactions on Geoscience and Remote Sensing, in revision, 2020.<br />
+				IEEE Transactions on Geoscience and Remote Sensing, In revision, 2020.<br />
 				<a class="publication-icon" href="https://arxiv.org/pdf/2006.08432.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 			</div>
 		</div>
@@ -43,7 +43,7 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective</span> <br />
 				Genc Hoxha, Farid Melgani, Begüm Demir<br />
-				IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020.<br />
+				IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, In press, 2020.<br />
 				<a class="publication-icon" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154525" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 			</div>
 		</div>
@@ -106,6 +106,18 @@ guid: http://www.bigearth.eu/publications
 				Suphankar Roy, Enver Sangineto, Begüm Demir, Nicu Sebe<br />
 				IEEE Geoscience and Remote Sensing Letters, in press, 2020.<br />
 				<a class="publication-icon" href="https://arxiv.org/abs/1904.01258" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/SR-GAN.jpg">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">An Approach to Super-Resolution of Sentinel-2 Images based on Generative Adversarial Networks</span> <br />
+				Kexin Zhang, Gencer Sumbul, Begüm Demir<br />
+				IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium, Tunis, Tunisia, 2020.<br />
+				<a class="publication-icon" href="https://arxiv.org/pdf/1912.06013.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
