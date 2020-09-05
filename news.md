@@ -10,6 +10,24 @@ guid: http://www.bigearth.eu/media
 	<div class="bg-faded p-4 my-4">
 		<div class="row">
 			<div class="col-3">
+				<img class="publication-image" src="./assets/images/bigearth.png">
+			</div>
+			<div class="col-9">
+				<b>July 2020</b> - There are several researchers and colleagues all around the world, contributing to advance BigEarthNet through their BigEarthNet related software tools and datasets. We appreciate their excellent work and effort! For details, please see <a href="https://bigearth.eu/externals">BigEarthNet Externals</a>.
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
+				<img class="publication-image" src="./assets/images/bigearth.png">
+			</div>
+			<div class="col-9">
+				<b>March 2020</b> - We made public an alternative class-nomenclature to allow DL models for better learning&describing the complex spatial/spectral information content of Sentinel-2 images in BigEarthNet. The new class nomenclature is the product of a collaboration between the "Direção-Geral do Território" in Lisbon, Portugal and the Remote Sensing Image Analysis (RSiM) group at TU Berlin, Germany. For details, please visit <a href="https://gitlab.tubit.tu-berlin.de/rsim/bigearthnet-19-models" target="_blank">this link</a>.
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
 				<img class="publication-image" src="./assets/news/images/dl-models-ben.jpg">
 			</div>
 			<div class="col-9">
