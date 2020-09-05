@@ -13,6 +13,18 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/SD-RSIC.jpg">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning</span><br />
+				Gencer Sumbul, Sonali Nayak, Begüm Demir<br />
+				IEEE Transactions on Geoscience and Remote Sensing, in revision, 2020.<br />
+				<a class="publication-icon" href="https://arxiv.org/pdf/2006.08432.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
 				<img class="publication-image mx-auto d-block" src="assets/publications/images/S2-cGAN.jpg">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
