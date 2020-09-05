@@ -15,7 +15,7 @@ guid: http://www.bigearth.eu/team
 						<img src="assets/team/begum_demir.jpg">
 					</div>
 					<div class="col-md-12 section2">
-						<p>Begüm Demir</p><br>
+						<p>Prof. Dr. Begüm Demir</p><br>
 						<h1>Principal Investigator</h1><br>
 					</div>
 					<!-- <div class="col-md-12 section3">
