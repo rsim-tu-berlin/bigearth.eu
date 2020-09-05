@@ -86,7 +86,7 @@ guid: http://www.bigearth.eu/team
 						<img src="assets/team/mahdyar_ravan.png">
 					</div>
 					<div class="col-md-12 section2">
-						<p>Mahdyar Ravanbakhsh</p><br>
+						<p>Dr. Mahdyar Ravanbakhsh</p><br>
 						<h1>PostDoc Researcher</h1><br>
 					</div>
 					<!-- <div class="col-md-12 section3">
