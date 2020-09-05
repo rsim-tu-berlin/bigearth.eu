@@ -13,7 +13,7 @@ guid: http://www.bigearth.eu/media
 				<img class="publication-image" src="./assets/images/bigearth.png">
 			</div>
 			<div class="col-9">
-				<b>July 2020</b> - There are several researchers and colleagues all around the world, contributing to advance BigEarthNet through their BigEarthNet related software tools and datasets. We appreciate their excellent work and effort! For details, please see <a href="https://bigearth.eu/externals">BigEarthNet Externals</a>.
+				<b>July 2020</b> - There are several researchers and colleagues all around the world, contributing to advance <a href="bigearth.net" target="_blank">BigEarthNet</a> through their BigEarthNet related software tools and datasets. We appreciate their excellent work and effort! For details, please see <a href="https://bigearth.eu/externals">BigEarthNet Externals</a>.
 			</div>
 		</div>
 		<hr />
@@ -22,7 +22,7 @@ guid: http://www.bigearth.eu/media
 				<img class="publication-image" src="./assets/images/bigearth.png">
 			</div>
 			<div class="col-9">
-				<b>March 2020</b> - We made public an alternative class-nomenclature to allow DL models for better learning&describing the complex spatial/spectral information content of Sentinel-2 images in BigEarthNet. The new class nomenclature is the product of a collaboration between the "Direção-Geral do Território" in Lisbon, Portugal and the Remote Sensing Image Analysis (RSiM) group at TU Berlin, Germany. For details, please visit <a href="https://gitlab.tubit.tu-berlin.de/rsim/bigearthnet-19-models" target="_blank">this link</a>.
+				<b>March 2020</b> - We made public an alternative class-nomenclature to allow DL models for better learning&describing the complex spatial/spectral information content of Sentinel-2 images in <a href="bigearth.net" target="_blank">BigEarthNet</a>. The new class nomenclature is the product of a collaboration between the "<a href="https://eportugal.gov.pt/entidades/direcao-geral-do-territorio" target="_blank">Direção-Geral do Território</a>" in Lisbon, Portugal and the <a href="rsim.tu-berlin.de" target="_blank">Remote Sensing Image Analysis (RSiM)</a> group at TU Berlin, Germany. For details, please visit <a href="https://gitlab.tubit.tu-berlin.de/rsim/bigearthnet-19-models" target="_blank">this link</a>.
 			</div>
 		</div>
 		<hr />
