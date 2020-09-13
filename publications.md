@@ -8,7 +8,7 @@ guid: http://www.bigearth.eu/publications
 <div class="bg-faded p-4 my-4">
 	<div class="bg-faded p-4 my-4">
 		<p>
-			<b>Note:</b> This publication list includes only BigEarth-related publications. For the full list, please <a href="http://begumdemir.com/papers.html" target="_blank">see</a>. PDFs given in this web page are the authors' draft versions of the related papers.
+			<b>Note:</b> This publication list includes only BigEarth-related publications. For the full list, please <a href="http://begumdemir.com/papers.html" target="_blank">see</a>. PDFs given in this web page are the authors' draft versions of the related papers. For the whole list of the software developed and maintained at our group, please visit <a href="https://www.rsim.tu-berlin.de/menue/software/" target="_blank">here</a>.
 		</p>
 		<hr />
 		<div class="row">
