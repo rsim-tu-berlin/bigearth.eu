@@ -13,7 +13,7 @@ guid: http://www.bigearth.eu/media
 				<img class="publication-image" src="./assets/images/bigearth.png">
 			</div>
 			<div class="col-9">
-				<b>September 2020</b> - The codes developed and maintained at <a href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank">RSiM</a> are publicly available at <a href="https://www.rsim.tu-berlin.de/menue/software/" target="_blank">here</a>.
+				<b>September 2020</b> - The codes developed and maintained at <a href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank">RSiM</a> are publicly available <a href="https://www.rsim.tu-berlin.de/menue/software/" target="_blank">here</a>.
 			</div>
 		</div>
 		<hr />
