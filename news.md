@@ -13,6 +13,15 @@ guid: http://www.bigearth.eu/media
 				<img class="publication-image" src="./assets/images/bigearth.png">
 			</div>
 			<div class="col-9">
+				<b>September 2020</b> - The codes developed and maintained at <a href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank">RSiM</a> are publicly available at <a href="https://www.rsim.tu-berlin.de/menue/software/" target="_blank">here</a>.
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
+				<img class="publication-image" src="./assets/images/bigearth.png">
+			</div>
+			<div class="col-9">
 				<b>July 2020</b> - There are several researchers and colleagues all around the world, contributing to advance <a href="bigearth.net" target="_blank">BigEarthNet</a> through their BigEarthNet related software tools and datasets. We appreciate their excellent work and effort! For details, please see <a href="https://bigearth.eu/externals">BigEarthNet Externals</a>.
 			</div>
 		</div>
