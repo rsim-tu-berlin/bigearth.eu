@@ -20,6 +20,7 @@ guid: http://www.bigearth.eu/publications
 				Gencer Sumbul, Sonali Nayak, Begüm Demir<br />
 				IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2020.<br />
 				<a class="publication-icon" href="https://arxiv.org/pdf/2006.08432.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="https://gitlab.tu-berlin.de/rsim/SD-RSIC" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
