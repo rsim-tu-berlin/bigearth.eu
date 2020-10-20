@@ -174,35 +174,18 @@ guid: http://www.bigearth.eu/team
 			<!-- -->
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
-						<img src="assets/team/akshara_preethy_byju.jpg">
+					<div class="col-md-12 section1 mp-2">
+						<img src="assets/team/felix_leidinger.jpg">
 					</div>
 					<div class="col-md-12 section2">
-						<p>Akshara Preethy Byju</p><br>
+						<p>Felix Leidinger</p><br>
 						<h1>PhD Researcher</h1><br>
 					</div>
 					<div class="col-md-12 section4">
-						<a href="mailto:akshara.preethybyju@unitn.it">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
+						<a href="https://github.com/arcticant" target="_blank">
+							<i class="fa fa-github" aria-hidden="true"></i>
 						</a>
-					</div>
-				</div>
-			</div>
-			<!-- --> 
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
-						<img src="assets/team/jlha.png">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Jose Luis Holgado Alvarez</p><br>
-						<h1>Research Assistant</h1><br>
-					</div>
-					<div class="col-md-12 section4">
-						<a href="mailto:jose.l.holgadoalvarez@campus.tu-berlin.de" target="_blank">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</a>
-						<a href="https://www.linkedin.com/in/joseluisholgadoalvarez/" target="_blank">
+						<a href="https://www.linkedin.com/in/felix-leidinger" target="_blank">
 							<i class="fa fa-linkedin" aria-hidden="true"></i>
 						</a>
 					</div>
@@ -241,7 +224,6 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section2">
 						<p>Sophia Biljan</p><br>
-						<h1>Research Assistant</h1><br>
 					</div>
 				</div>
 			</div>
@@ -253,11 +235,42 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section2">
 						<p>Bernhard Föllmer</p><br>
-						<h1>PhD Researcher</h1><br>
 					</div>
 					<div class="col-md-12 section4">
 						<a href="http://www.bernifoellmer.com" target="_blank">
 							<i class="fa fa-globe" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/akshara_preethy_byju.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Akshara Preethy Byju</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:akshara.preethybyju@unitn.it">
+							<i class="fa fa-envelope" aria-hidden="true"></i>							
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- --> 
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/jlha.png">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Jose Luis Holgado Alvarez</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="https://www.linkedin.com/in/joseluisholgadoalvarez/" target="_blank">
+							<i class="fa fa-linkedin" aria-hidden="true"></i>
 						</a>
 					</div>
 				</div>
