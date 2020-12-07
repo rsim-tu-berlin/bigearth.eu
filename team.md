@@ -34,7 +34,7 @@ guid: http://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
-			<!-- -->		
+			<!-- -->
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
@@ -49,7 +49,7 @@ guid: http://www.bigearth.eu/team
 					</div> -->
 					<div class="col-md-12 section4">
 						<a href="mailto:sekr@rsim.tu-berlin.de">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
+							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
 				</div>
@@ -66,7 +66,7 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section4">
 						<a href="mailto:adela.westedt@tu-berlin.de">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
+							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
 				</div>
@@ -94,7 +94,7 @@ guid: http://www.bigearth.eu/team
 					</div> -->
 					<div class="col-md-12 section4">
 						<a href="mailto:ravanbakhsh@tu-berlin.de">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
+							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 						<a href="https://scholar.google.com/citations?user=SI-w7jsAAAAJ&hl=en" target="_blank">
 							<i class="fa fa-graduation-cap" aria-hidden="true"></i>
@@ -108,7 +108,7 @@ guid: http://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
-			<!-- -->			
+			<!-- -->
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
@@ -123,7 +123,7 @@ guid: http://www.bigearth.eu/team
 					</div> -->
 					<div class="col-md-12 section4">
 						<a href="mailto:gencer.suembuel@tu-berlin.de">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
+							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 						<a href="https://github.com/gencersumbul" target="_blank">
 							<i class="fa fa-github" aria-hidden="true"></i>
@@ -146,7 +146,7 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section4">
 						<a href="mailto:tristan.kreuziger@tu-berlin.de ">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
+							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 						<a href="http://linkedin.com/in/tristan-kreuziger" target="_blank">
 							<i class="fa fa-linkedin" aria-hidden="true"></i>
@@ -166,7 +166,7 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section4">
 						<a href="mailto:a.dewall@tu-berlin.de ">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
+							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
 				</div>
@@ -191,7 +191,7 @@ guid: http://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
-			<!-- --> 
+			<!-- -->
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
@@ -254,12 +254,12 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section4">
 						<a href="mailto:akshara.preethybyju@unitn.it">
-							<i class="fa fa-envelope" aria-hidden="true"></i>							
+							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
 				</div>
 			</div>
-			<!-- --> 
+			<!-- -->
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
@@ -285,7 +285,7 @@ guid: http://www.bigearth.eu/team
     width:100%;
     background-size:100% 100%;
     background-repeat:no-repeat;
-    background: linear-gradient(rgba(0,0,0,.10)); 
+    background: linear-gradient(rgba(0,0,0,.10));
 }
 .ourTeam-hedding h1{
     color:#fff;
@@ -333,7 +333,7 @@ guid: http://www.bigearth.eu/team
     color:#fff;
     padding: 5px 15px;
     border-radius: 3px;
-    margin-top: -20px;    
+    margin-top: -20px;
 }
 .section2 span{
     color:#979597;
@@ -357,14 +357,14 @@ guid: http://www.bigearth.eu/team
 .section4 i{
     color:#fff;
     padding:3px;
-    border-radius: 2px; 
+    border-radius: 2px;
     font-size: 12px;
     background-color: #5DDDD3;
     cursor: pointer;
 }
 
 .section-danger .section4 i {
-    background-color: rgba(241, 90, 36); 
+    background-color: rgba(241, 90, 36);
     font-size: 14pt;
 }
 
