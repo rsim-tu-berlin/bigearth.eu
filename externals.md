@@ -12,7 +12,7 @@ guid: http://www.bigearth.eu/externals
 		</p>
 		<h4></h4>
 		<p>
-			<b>About BigEarthNet:</b> The BigEarthNet archive was constructed by the Remote Sensing Image Analysis (<a href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank">RSiM</a>) Group and the Database Systems and Information Management (<a href="https://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/" target="_blank">DIMA</a>) Group at the Technische Universität Berlin (TU Berlin). This work is supported by the European Research Council under the ERC Starting Grant `BigEarth` and by the German Ministry for Education and Research as Berlin Big Data Center (<a href="http://www.bbdc.berlin/home/" target="_blank">BBDC</a>).
+			<b>About BigEarthNet:</b> The BigEarthNet archive was constructed by the Remote Sensing Image Analysis (<a href="https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/" target="_blank">RSiM</a>) Group and the Database Systems and Information Management (<a href="https://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/" target="_blank">DIMA</a>) Group at the Technische Universität Berlin (TU Berlin). This work is supported by the European Research Council under the ERC Starting Grant `BigEarth` and by the Berlin Institute for the Foundations of Learning and Data <a href="http://bifold.berlin" target="_blank">(BIFOLD)</a>.
 		</p>
 		<p>
 			For the details about BigEarthNet, please visit <a href="http://bigearth.net" target="_blank">BigEarthNet</a>.
@@ -94,7 +94,7 @@ guid: http://www.bigearth.eu/externals
 </div>
 
 <script type="text/javascript">
-	
+
 // Get the modal
 var modal = document.getElementById('modalBox');
 
@@ -119,7 +119,7 @@ for (var i = publication_images.length - 1; i >= 0; i--) {
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() { 
+span.onclick = function() {
     modal.style.display = "none";
 }
 
@@ -128,7 +128,7 @@ modal.addEventListener('click',function(){
  	this.style.display="none";
 })
 
-// When user hits ESC, close the modal 
+// When user hits ESC, close the modal
 document.addEventListener("keydown", function(event) {
 	if (event.keyCode == 27) {
 		modal.style.display="none";
@@ -213,6 +213,6 @@ document.addEventListener("keydown", function(event) {
     .modal-content {
         width: 100%;
     }
-}  
+}
 </style>
 
