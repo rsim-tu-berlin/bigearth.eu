@@ -10,6 +10,15 @@ guid: http://www.bigearth.eu/media
 	<div class="bg-faded p-4 my-4">
 		<div class="row">
 			<div class="col-3">
+				<img class="publication-image" src="./assets/news/images/noisy-labels.png">
+			</div>
+			<div class="col-9">
+				<b>December 2020</b> - To reduce the negative impact of noisy land-use and land-cover annotations, we research on developing noise robust deep learning models. We have recently made public our codes on noise robust deep learning models for Earth observation at <a href="https://noisy-labels-in-rs.org" target="_blank">noisy-labels-in-rs.org</a>.
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
 				<img class="publication-image" src="./assets/images/bigearth.png">
 			</div>
 			<div class="col-9">
@@ -108,7 +117,7 @@ guid: http://www.bigearth.eu/media
 				<b>September 2017</b> - BigEarth is on <a href="http://www.buyukkocaeli.com.tr/tarih-seni-yazacak-begum-hoca-11692h.htm" target="_blank">local Turkish newspaper</a>.
 			</div>
 		</div>
-		<hr />		
+		<hr />
 		<div class="row">
 			<div class="col-3">
 				<img class="publication-image" src="./assets/news/images/dream_big_set_goals_take_action.png">
@@ -148,7 +157,7 @@ img.onclick = function(){
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() { 
+span.onclick = function() {
     modal.style.display = "none";
 }
 
