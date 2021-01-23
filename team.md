@@ -208,6 +208,26 @@ guid: http://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/ahmet_kerem_aksoy.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Ahmet Kerem Aksoy</p><br>
+						<h1>Research Assistant</h1><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:a.aksoy@campus.tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+						<a href="https://www.linkedin.com/in/akeremaksoy/" target="_blank">
+							<i class="fa fa-linkedin" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 	<div class="bg-faded p-4 my-4">
