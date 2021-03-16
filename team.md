@@ -174,26 +174,6 @@ guid: http://www.bigearth.eu/team
 			<!-- -->
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1 mp-2">
-						<img src="assets/team/felix_leidinger.jpg">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Felix Leidinger</p><br>
-						<h1>PhD Researcher</h1><br>
-					</div>
-					<div class="col-md-12 section4">
-						<a href="https://github.com/arcticant" target="_blank">
-							<i class="fa fa-github" aria-hidden="true"></i>
-						</a>
-						<a href="https://www.linkedin.com/in/felix-leidinger" target="_blank">
-							<i class="fa fa-linkedin" aria-hidden="true"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<!-- -->
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
 						<img src="assets/team/tom_burgert.jpg">
 					</div>
