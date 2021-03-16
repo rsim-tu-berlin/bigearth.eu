@@ -33,7 +33,7 @@ guid: http://www.bigearth.eu/publications
 				Jose Luis Holgado Alvarez, Mahdyar Ravanbakhsh, Begüm Demir<br />
 				IEEE International Geoscience and Remote Sensing Symposium, Hawaii, USA, 2020.<br />
 				<a class="publication-icon" href="https://arxiv.org/abs/2007.02565" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
-				<a class="publication-icon" href="https://gitlab.tubit.tu-berlin.de/rsim/S2-cGAN" target="_blank"><i class="fa fa-github text-color-be"></i></a>
+				<a class="publication-icon" href="https://git.tu-berlin.de/rsim/S2-cGAN" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
@@ -70,7 +70,7 @@ guid: http://www.bigearth.eu/publications
 				Gencer Sumbul, Begüm Demir<br />
 				IEEE Access, vol. 8, pp. 95934-95946, 2020.<br />
 				<a class="publication-icon" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9096309" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
-				<a class="publication-icon" href="https://gitlab.tubit.tu-berlin.de/rsim/MAML-RSIC" target="_blank"><i class="fa fa-github text-color-be"></i></a>
+				<a class="publication-icon" href="https://git.tu-berlin.de/rsim/MAML-RSIC" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
@@ -149,7 +149,7 @@ guid: http://www.bigearth.eu/publications
 			</div>
 		</div>
 		<hr />
-		<div class="row">			
+		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
 				<img class="publication-image mx-auto d-block" src="assets/publications/images/CASEEO-BeretaKoubarakisManegoldStamoulisDemirFinal.png">
 			</div>
@@ -160,8 +160,8 @@ guid: http://www.bigearth.eu/publications
 				<a class="publication-icon" href="assets/publications/pdfs/CASEEO-BeretaKoubarakisManegoldStamoulisDemirFinal.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 			</div>
 		</div>
-		<hr />	
-		<div class="row">			
+		<hr />
+		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
 				<img class="publication-image mx-auto d-block" src="assets/publications/images/MultiCode-ThomasFinal.png">
 			</div>
@@ -173,8 +173,8 @@ guid: http://www.bigearth.eu/publications
 				<a class="publication-icon" href="http://bigearth.eu/datasets.html" target="_blank"><i class="fa fa-database text-color-be"></i></a>
 			</div>
 		</div>
-		<hr />		
-		<div class="row">			
+		<hr />
+		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
 				<img class="publication-image mx-auto d-block" src="assets/publications/images/BoSV-DaiSankurDemirFinal.png">
 			</div>
@@ -263,7 +263,7 @@ guid: http://www.bigearth.eu/publications
 </div>
 
 <script type="text/javascript">
-	
+
 // Get the modal
 var modal = document.getElementById('modalBox');
 
@@ -288,7 +288,7 @@ for (var i = publication_images.length - 1; i >= 0; i--) {
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() { 
+span.onclick = function() {
     modal.style.display = "none";
 }
 
@@ -297,7 +297,7 @@ modal.addEventListener('click',function(){
  	this.style.display="none";
 })
 
-// When user hits ESC, close the modal 
+// When user hits ESC, close the modal
 document.addEventListener("keydown", function(event) {
 	if (event.keyCode == 27) {
 		modal.style.display="none";
@@ -382,7 +382,7 @@ document.addEventListener("keydown", function(event) {
     .modal-content {
         width: 100%;
     }
-}  
+}
 </style>
 
 
