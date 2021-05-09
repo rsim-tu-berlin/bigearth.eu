@@ -22,7 +22,7 @@ guid: http://www.bigearth.eu/media
 				<img class="publication-image" src="./assets/news/images/we_are_hiring.png">
 			</div>
 			<div class="col-9">
-				<b>August 2018</b> - We are hiring! <br />
+				<b>May 2021</b> - We are hiring! <br />
 				Please contact Prof. Dr. Begüm Demir through <a href="mailto:demir@bigearth.eu">demir[at]bigearth.eu</a> for details.
 			</div>
 		</div>
