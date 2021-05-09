@@ -30,9 +30,46 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning</span><br />
 				Gencer Sumbul, Sonali Nayak, Begüm Demir<br />
-				IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2020.<br />
+				IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2021.<br />
 				<a class="publication-icon" href="https://arxiv.org/pdf/2006.08432.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="https://gitlab.tu-berlin.de/rsim/SD-RSIC" target="_blank"><i class="fa fa-github text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/JPEG2000-Compressed-ByjuSumbulDemirBruzzone.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">Remote Sensing Image Scene Classiﬁcation with Deep Neural Networks in JPEG 2000 Compressed Domain</span> <br />
+				Akshara Preethy Byju, Gencer Sumbul, Begüm Demir, Lorenzo Bruzzone<br />
+				IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 4, pp. 3458-3472, 2021.<br />
+				<a class="publication-icon" href="https://arxiv.org/abs/2006.11529" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/URSIRuPLSH.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing</span><br />
+				Ruben Fernandez-Beltran, Begüm Demir, Filiberto Pla, Antonio Plaza<br />
+				IEEE Geoscience and Remote Sensing Letters, vol. 18, no. 2, pp. 256-260, 2021.<br />
+				<a class="publication-icon" href="assets/publications/pdfs/GRSL_Probabilistic_Latent_Semantic_Hashing_Codes_2020.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/MiLAN.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images</span><br />
+				Subhankar Roy, Enver Sangineto, Begüm Demir, Nicu Sebe<br />
+				IEEE Geoscience and Remote Sensing Letters, vol. 18, no. 2, pp. 226-230, 2021.<br />
+				<a class="publication-icon" href="https://arxiv.org/abs/1904.01258" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="https://github.com/MLEnthusiast/MHCLN" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
@@ -43,7 +80,7 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">S2-cGAN: Self-Supervised Adversarial Representation Learning for Binary Change Detection in Multispectral Images</span> <br />
 				Jose Luis Holgado Alvarez, Mahdyar Ravanbakhsh, Begüm Demir<br />
-				IEEE International Geoscience and Remote Sensing Symposium, Hawaii, USA, 2020.<br />
+				IEEE International Geoscience and Remote Sensing Symposium, pp. 2515-2518, Hawaii, USA, 2020.<br />
 				<a class="publication-icon" href="https://arxiv.org/abs/2007.02565" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="https://git.tu-berlin.de/rsim/S2-cGAN" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
@@ -56,20 +93,8 @@ guid: http://www.bigearth.eu/publications
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Toward Remote Sensing Image Retrieval under a Deep Image Captioning Perspective</span> <br />
 				Genc Hoxha, Farid Melgani, Begüm Demir<br />
-				IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, In press, 2020.<br />
+				IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 4462-4475, 2020.<br />
 				<a class="publication-icon" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154525" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
-			</div>
-		</div>
-		<hr />
-		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull">
-				<img class="publication-image mx-auto d-block" src="assets/publications/images/JPEG2000-Compressed-ByjuSumbulDemirBruzzone.png">
-			</div>
-			<div class="col-lg-9 col-lg-12-push">
-				<span class="publication-title">Remote Sensing Image Scene Classiﬁcation with Deep Neural Networks in JPEG 2000 Compressed Domain</span> <br />
-				Akshara Preethy Byju, Gencer Sumbul, Begüm Demir, Lorenzo Bruzzone<br />
-				IEEE Transactions on Geoscience and Remote Sensing, In press, 2020.<br />
-				<a class="publication-icon" href="https://arxiv.org/abs/2006.11529" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
@@ -95,31 +120,6 @@ guid: http://www.bigearth.eu/publications
 				Akshara Preethy Byju, Begüm Demir, Lorenzo Bruzzone<br />
 				IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 8, pp. 5739-5751, 2020.<br />
 				<a class="publication-icon" href="assets/publications/pdfs/PCBIR_2020.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
-			</div>
-		</div>
-		<hr />
-		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull">
-				<img class="publication-image mx-auto d-block" src="assets/publications/images/URSIRuPLSH.png">
-			</div>
-			<div class="col-lg-9 col-lg-12-push">
-				<span class="publication-title">Unsupervised Remote Sensing Image Retrieval using Probabilistic Latent Semantic Hashing</span><br />
-				Ruben Fernandez-Beltran, Begüm Demir, Filiberto Pla, Antonio Plaza<br />
-				IEEE Geoscience and Remote Sensing Letters, in press, 2020.<br />
-				<a class="publication-icon" href="assets/publications/pdfs/GRSL_Probabilistic_Latent_Semantic_Hashing_Codes_2020.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
-			</div>
-		</div>
-		<hr />
-		<div class="row">
-			<div class="col-lg-3 col-lg-12-pull">
-				<img class="publication-image mx-auto d-block" src="assets/publications/images/MiLAN.png">
-			</div>
-			<div class="col-lg-9 col-lg-12-push">
-				<span class="publication-title">Metric-Learning based Deep Hashing Network for Content Based Retrieval of Remote Sensing Images</span><br />
-				Suphankar Roy, Enver Sangineto, Begüm Demir, Nicu Sebe<br />
-				IEEE Geoscience and Remote Sensing Letters, in press, 2020.<br />
-				<a class="publication-icon" href="https://arxiv.org/abs/1904.01258" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
-				<a class="publication-icon" href="https://github.com/MLEnthusiast/MHCLN" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
