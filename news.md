@@ -19,6 +19,16 @@ guid: http://www.bigearth.eu/media
 		<hr /> -->
 		<div class="row">
 			<div class="col-3">
+				<img class="publication-image" src="./assets/news/images/we_are_hiring.png">
+			</div>
+			<div class="col-9">
+				<b>August 2018</b> - We are hiring! <br />
+				Please contact Prof. Dr. Begüm Demir through <a href="mailto:demir@bigearth.eu">demir[at]bigearth.eu</a> for details.
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
 				<img class="publication-image" src="./assets/news/images/BigEarthNetMM_cover_S1.jpg">
 			</div>
 			<div class="col-9">
@@ -77,16 +87,6 @@ guid: http://www.bigearth.eu/media
 			</div>
 			<div class="col-9">
 				<b>November 2018</b> - Prof. Dr. Demir has been appointed as an Associate Editor for the <a href="http://www.grss-ieee.org/publication-category/grsl/" target="_blank">IEEE Geoscience and Remote Sensing Letters</a>.
-			</div>
-		</div>
-		<hr />
-		<div class="row">
-			<div class="col-3">
-				<img class="publication-image" src="./assets/news/images/we_are_hiring.png">
-			</div>
-			<div class="col-9">
-				<b>August 2018</b> - We are hiring! <br />
-				Please check the <a href="http://bigearth.eu/openpositions.html">open positions</a> for details.
 			</div>
 		</div>
 		<hr />
