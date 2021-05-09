@@ -8,12 +8,21 @@ guid: http://www.bigearth.eu/media
 
 <div class="bg-faded p-4 my-4">
 	<div class="bg-faded p-4 my-4">
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col-3">
-				<img class="publication-image" src="./assets/news/images/noisy-labels.png">
+				<img class="publication-image" src="./assets/images/bigearth.png">
 			</div>
 			<div class="col-9">
-				<b>December 2020</b> - To reduce the negative impact of noisy land-use and land-cover annotations, we research on developing noise robust deep learning models. We have recently made public our codes on noise robust deep learning models for Earth observation at <a href="https://noisy-labels-in-rs.org" target="_blank">noisy-labels-in-rs.org</a>.
+				<b>May 2021</b> - <a href="http://bigearth.net" target="_blank">BigEarthNet</a> has been enriched by including Sentinel-1 images. The new version contains 590,326 pairs of Sentinel-1 and Sentinel-2 image patches to support research studies on multi-modal/cross-modal image classification, retrieval and search.
+			</div>
+		</div>
+		<hr /> -->
+		<div class="row">
+			<div class="col-3">
+				<img class="publication-image" src="./assets/news/images/BigEarthNetMM_cover_S1.jpg">
+			</div>
+			<div class="col-9">
+				<b>December 2020</b> - <a href="http://bigearth.net" target="_blank">BigEarthNet</a> has been enriched by including Sentinel-1 images. The new version contains 590,326 pairs of Sentinel-1 and Sentinel-2 image patches to support research studies on multi-modal/cross-modal image classification, retrieval and search.
 			</div>
 		</div>
 		<hr />
