@@ -111,6 +111,23 @@ guid: http://www.bigearth.eu/team
 			<!-- -->
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1 mp-2">
+						<img src="assets/team/BigEarthLogo.png">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Dr. Nimisha Vishwanathan</p><br>
+						<h1>PostDoc Researcher</h1><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="https://nimiiit.github.io" target="_blank">
+							<i class="fa fa-globe" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
 						<img src="assets/team/gencer_sumbul.jpg">
 					</div>
@@ -137,18 +154,15 @@ guid: http://www.bigearth.eu/team
 			<!-- -->
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
-						<img src="assets/team/tristan_kreuziger.jpg">
+					<div class="col-md-12 section1 mp-2">
+						<img src="assets/team/BigEarthLogo.png">
 					</div>
 					<div class="col-md-12 section2">
-						<p>Tristan Kreuziger</p><br>
-						<h1>PhD Researcher</h1><br>
+						<p>Franziska Lippoldt</p><br>
+						<h1>Researcher</h1><br>
 					</div>
 					<div class="col-md-12 section4">
-						<a href="mailto:tristan.kreuziger@tu-berlin.de ">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</a>
-						<a href="http://linkedin.com/in/tristan-kreuziger" target="_blank">
+						<a href="https://de.linkedin.com/in/franziska-lippoldt-b5b70389" target="_blank">
 							<i class="fa fa-linkedin" aria-hidden="true"></i>
 						</a>
 					</div>
@@ -161,11 +175,11 @@ guid: http://www.bigearth.eu/team
 						<img src="assets/team/BigEarthLogo.png">
 					</div>
 					<div class="col-md-12 section2">
-						<p>Arne De Wall</p><br>
-						<h1>PhD Researcher</h1><br>
+						<p>Georgii Mikriukov</p><br>
+						<h1>Researcher</h1><br>
 					</div>
 					<div class="col-md-12 section4">
-						<a href="mailto:a.dewall@tu-berlin.de ">
+						<a href="mailto:georgii.mikriukov@tu-berlin.de">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
@@ -270,6 +284,22 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section4">
 						<a href="https://www.linkedin.com/in/joseluisholgadoalvarez/" target="_blank">
+							<i class="fa fa-linkedin" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/tristan_kreuziger.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Tristan Kreuziger</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="http://linkedin.com/in/tristan-kreuziger" target="_blank">
 							<i class="fa fa-linkedin" aria-hidden="true"></i>
 						</a>
 					</div>
