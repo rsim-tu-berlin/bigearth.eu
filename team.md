@@ -87,7 +87,6 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section2">
 						<p>Dr. Mahdyar Ravanbakhsh</p><br>
-						<h1>PostDoc Researcher</h1><br>
 					</div>
 					<!-- <div class="col-md-12 section3">
 						<p></p>
@@ -116,7 +115,6 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section2">
 						<p>Dr. Nimisha Vishwanathan</p><br>
-						<h1>PostDoc Researcher</h1><br>
 					</div>
 					<div class="col-md-12 section4">
 						<a href="https://nimiiit.github.io" target="_blank">
@@ -133,7 +131,6 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section2">
 						<p>Gencer Sümbül</p><br>
-						<h1>PhD Researcher</h1><br>
 					</div>
 					<!-- <div class="col-md-12 section3">
 						<p></p>
@@ -159,7 +156,6 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section2">
 						<p>Franziska Lippoldt</p><br>
-						<h1>Researcher</h1><br>
 					</div>
 					<div class="col-md-12 section4">
 						<a href="https://de.linkedin.com/in/franziska-lippoldt-b5b70389" target="_blank">
@@ -176,7 +172,6 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section2">
 						<p>Georgii Mikriukov</p><br>
-						<h1>Researcher</h1><br>
 					</div>
 					<div class="col-md-12 section4">
 						<a href="mailto:georgii.mikriukov@tu-berlin.de">
@@ -193,7 +188,6 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section2">
 						<p>Tom Burgert</p><br>
-						<h1>Research Assistant</h1><br>
 					</div>
 					<div class="col-md-12 section4">
 						<a href="mailto:tom.o.burgert@campus.tu-berlin.de" target="_blank">
@@ -210,7 +204,6 @@ guid: http://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section2">
 						<p>Ahmet Kerem Aksoy</p><br>
-						<h1>Research Assistant</h1><br>
 					</div>
 					<div class="col-md-12 section4">
 						<a href="mailto:a.aksoy@campus.tu-berlin.de" target="_blank">
