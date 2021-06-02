@@ -3,7 +3,7 @@ id: 2
 title: team
 author: admin
 layout: page
-guid: http://www.bigearth.eu/team
+guid: https://www.bigearth.eu/team
 ---
 
 <div class="bg-faded p-4 my-4">

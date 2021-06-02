@@ -3,7 +3,7 @@ id: 5
 title: publications
 author: admin
 layout: page
-guid: http://www.bigearth.eu/publications
+guid: https://www.bigearth.eu/publications
 ---
 <div class="bg-faded p-4 my-4">
 	<div class="bg-faded p-4 my-4">

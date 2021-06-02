@@ -3,7 +3,7 @@ id: 5
 title: externals
 author: admin
 layout: page
-guid: http://www.bigearth.eu/externals
+guid: https://www.bigearth.eu/externals
 ---
 <div class="bg-faded p-4 my-4">
 	<div class="bg-faded p-4 my-4">

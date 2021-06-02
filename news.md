@@ -3,7 +3,7 @@ id: 2
 title: media
 author: admin
 layout: page
-guid: http://www.bigearth.eu/media
+guid: https://www.bigearth.eu/media
 ---
 
 <div class="bg-faded p-4 my-4">

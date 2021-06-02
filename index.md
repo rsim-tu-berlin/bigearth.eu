@@ -3,7 +3,7 @@ id: 1
 title: index
 author: admin
 layout: page
-guid: http://www.bigearth.eu/index
+guid: https://www.bigearth.eu/index
 ---
 
 <div class="bg-faded p-4 my-4">
