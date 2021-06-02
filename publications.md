@@ -13,6 +13,18 @@ guid: http://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/GT-DRL-CBIR.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">A Novel Graph-Theoretic Deep Representation Learning Method for Multi-Label Remote Sensing Image Retrieval</span><br />
+				Gencer Sumbul, Begüm Demir,<br />
+				IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brussels, Belgium, 2021.<br />
+				<a class="publication-icon" href="https://git.tu-berlin.de/rsim/GT-DRL-CBIR" target="_blank"><i class="fa fa-github text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
 				<img class="publication-image mx-auto d-block" src="assets/publications/images/DLIRS_Large_Scale.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
