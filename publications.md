@@ -18,7 +18,7 @@ guid: https://www.bigearth.eu/publications
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">BigEarthNet-MM: A Large Scale Multi-Modal Multi-Label Benchmark Archive for Remote Sensing Image Classification and Retrieval</span><br />
 				Gencer Sumbul, Arne de Wall, Tristan Kreuziger, Filipe Marcelino, Hugo Costa, Pedro Benevides, Mário Caetano, Begüm Demir, Volker Markl<br />
-				IEEE Geoscience and Remote Sensing Magazine, accepted for publication, 2021<br />
+				IEEE Geoscience and Remote Sensing Magazine, accepted for publication, 2021.<br />
 			</div>
 		</div>
 		<hr />
