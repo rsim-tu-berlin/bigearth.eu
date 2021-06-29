@@ -96,7 +96,7 @@ guid: https://www.bigearth.eu/team
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 						<a href="https://scholar.google.com/citations?user=SI-w7jsAAAAJ&hl=en" target="_blank">
-							<i class="fa fa-graduation-cap" aria-hidden="true"></i>
+							<i class="ai ai-google-scholar-square" aria-hidden="true"></i>
 						</a>
 						<a href="https://github.com/matt-rb" target="_blank">
 							<i class="fa fa-github" aria-hidden="true"></i>
@@ -111,14 +111,26 @@ guid: https://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1 mp-2">
-						<img src="assets/team/BigEarthLogo.png">
+						<img src="assets/team/nimisha_vishwanathan.jpg">
 					</div>
 					<div class="col-md-12 section2">
 						<p>Dr. Nimisha Vishwanathan</p><br>
 					</div>
 					<div class="col-md-12 section4">
+						<a href="mailto:nimiviswants@gmail.com">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+						<a href="https://scholar.google.co.in/citations?user=jSr4uEQAAAAJ&hl=en" target="_blank">
+							<i class="ai ai-google-scholar-square" aria-hidden="true"></i>
+						</a>
+						<a href="https://github.com/nimiiit" target="_blank">
+							<i class="fa fa-github" aria-hidden="true"></i>
+						</a>
 						<a href="https://nimiiit.github.io" target="_blank">
 							<i class="fa fa-globe" aria-hidden="true"></i>
+						</a>
+						<a href="https://www.linkedin.com/in/nimisha-t-m-216161110/" target="_blank">
+							<i class="fa fa-linkedin" aria-hidden="true"></i>
 						</a>
 					</div>
 				</div>
