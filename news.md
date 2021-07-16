@@ -19,6 +19,19 @@ guid: https://www.bigearth.eu/media
 		<hr /> -->
 		<div class="row">
 			<div class="col-3">
+				<img class="publication-image" src="./assets/images/bigearth.png">
+			</div>
+			<div class="col-9">
+				<b>July 2021</b> - CLC labels in BigEarthNet <br />
+				The CLC labels in BigEarthNet belong to the initial release of the CLC 2018 products in 2018.
+                  Since 2018, there are some revisions applied to CLC 2018 products.  For details, please visit:
+                  <a href="https://land.copernicus.eu/pan-european/corine-land-cover/clc2018?tab=metadata" target="_blank">https://land.copernicus.eu/pan-european/corine-land-cover/clc2018?tab=metadata</a>.
+                  The current version of the BigEarthNet does not include the CLC revisions.
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
 				<img class="publication-image" src="./assets/news/images/we_are_hiring.png">
 			</div>
 			<div class="col-9">
