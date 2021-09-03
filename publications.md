@@ -53,7 +53,7 @@ guid: https://www.bigearth.eu/publications
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">SD-RSIC: Summarization Driven Deep Remote Sensing Image Captioning</span><br />
 				Gencer Sumbul, Sonali Nayak, Begüm Demir<br />
-				IEEE Transactions on Geoscience and Remote Sensing, accepted for publication, 2021.<br />
+				IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 8, 2021.<br />
 				<a class="publication-icon" href="https://arxiv.org/pdf/2006.08432.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="https://git.tu-berlin.de/rsim/SD-RSIC" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
