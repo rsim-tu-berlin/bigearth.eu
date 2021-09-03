@@ -211,6 +211,25 @@ guid: https://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/BigEarthLogo.png">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Markus Müller</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:markus.m.mueller@campus.tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+						<a href="https://www.linkedin.com/in/markus-martin-m%C3%BCller/" target="_blank">
+							<i class="fa fa-linkedin" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 	<div class="bg-faded p-4 my-4">
