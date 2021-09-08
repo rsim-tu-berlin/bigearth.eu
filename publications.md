@@ -19,6 +19,8 @@ guid: https://www.bigearth.eu/publications
 				<span class="publication-title">BigEarthNet-MM: A Large Scale Multi-Modal Multi-Label Benchmark Archive for Remote Sensing Image Classification and Retrieval</span><br />
 				Gencer Sumbul, Arne de Wall, Tristan Kreuziger, Filipe Marcelino, Hugo Costa, Pedro Benevides, Mário Caetano, Begüm Demir, Volker Markl<br />
 				IEEE Geoscience and Remote Sensing Magazine, accepted for publication, 2021.<br />
+				<a class="publication-icon" href="https://arxiv.org/pdf/2105.07921.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="http://bigearth.net" target="_blank"><i class="fa fa-database text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
@@ -30,6 +32,7 @@ guid: https://www.bigearth.eu/publications
 				<span class="publication-title">A Novel Graph-Theoretic Deep Representation Learning Method for Multi-Label Remote Sensing Image Retrieval</span><br />
 				Gencer Sumbul, Begüm Demir<br />
 				IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brussels, Belgium, 2021.<br />
+				<a class="publication-icon" href="https://arxiv.org/pdf/2106.00506.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="https://git.tu-berlin.de/rsim/GT-DRL-CBIR" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
@@ -43,6 +46,7 @@ guid: https://www.bigearth.eu/publications
 				Gencer Sumbul, Jian Kang, Begüm Demir,<br />
 				Deep learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing, Climate Science and Geosciences, John Wiley & Sons, ISBN: 978-1-119-64614-3, 2021.<br />
 				<a class="publication-icon" href="https://arxiv.org/abs/2004.01613" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="https://git.tu-berlin.de/rsim" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
@@ -271,7 +275,8 @@ guid: https://www.bigearth.eu/publications
 				<span class="publication-title">A Novel Active Learning Technique for Multilabel Remote Sensing Image Scene Classification</span>
 				<br />
 				Bayable Teshome Zegeye, Begüm Demir<br />
-				SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.
+				SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.<br />
+				<a class="publication-icon" href="https://depositonce.tu-berlin.de/handle/11303/10382" target="_blank"><i class="publication-icon fa fa-file-pdf-o text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
@@ -283,7 +288,8 @@ guid: https://www.bigearth.eu/publications
 				<span class="publication-title">A Novel Coarse-to-Fine Remote Sensing Image Retrieval System in JPEG-2000 Compressed Domain</span>
 				<br />
 				Akshara Preethy Byju, Begüm Demir, Lorenzo Bruzzone<br />
-				SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.
+				SPIE Image and Signal Processing for Remote Sensing, Berlin, 2018.<br />
+				<a class="publication-icon" href="https://depositonce.tu-berlin.de/handle/11303/10381" target="_blank"><i class="publication-icon fa fa-file-pdf-o text-color-be"></i></a>
 			</div>
 		</div>
 	</div>
