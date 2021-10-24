@@ -13,6 +13,19 @@ guid: https://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/TGRS-Triplet-2021.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">Informative and Representative Triplet Selection for Multi-Label Remote Sensing Image Retrieval</span><br />
+				Gencer Sumbul, Mahdyar Ravanbakhsh, Begüm Demir<br />
+				IEEE Transactions on Geoscience and Remote Sensing, in press, 2021.<br />
+				<a class="publication-icon" href="https://arxiv.org/abs/2105.03647" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="https://git.tu-berlin.de/rsim/image-retrieval-from-triplets" target="_blank"><i class="fa fa-github text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
 				<img class="publication-image mx-auto d-block" src="assets/publications/images/BigEarthnet-MM.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
