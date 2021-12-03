@@ -14,7 +14,7 @@ guid: https://www.bigearth.eu/media
 			</div>
 			<div class="col-9">
 				<b>December 2021</b> - Noisy Labels in Remote Sensing<br />
-				To reduce the negative impact of noisy land-use and land-cover annotations, we research on developing noise robust deep learning models. We have recently made public our codes on noise robust deep learning models for Earth observation at <a href="noisy-labels-in-rs.org" target="_blank">noisy-labels-in-rs.org</a>.
+				To reduce the negative impact of noisy land-use and land-cover annotations, we research on developing noise robust deep learning models. We have recently made public our codes on noise robust deep learning models for Earth observation at <a href="https://noisy-labels-in-rs.org" target="_blank">noisy-labels-in-rs.org</a>.
 			</div>
 		</div>
 		<hr />
