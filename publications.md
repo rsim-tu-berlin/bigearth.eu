@@ -13,13 +13,24 @@ guid: https://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/UCH-2022.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">Unsupervised Contrastive Hashing for Cross-Modal Retrieval in Remote Sensing</span><br />
+				Georgii Mikriukov, Mahdyar Ravanbakhsh, Begüm Demir<br />
+				International Conference on Acoustics, Speech, & Signal Processing (ICASSP), Singapore, 2022.<br />
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
 				<img class="publication-image mx-auto d-block" src="assets/publications/images/TGRS-Triplet-2021.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Informative and Representative Triplet Selection for Multi-Label Remote Sensing Image Retrieval</span><br />
 				Gencer Sumbul, Mahdyar Ravanbakhsh, Begüm Demir<br />
 				IEEE Transactions on Geoscience and Remote Sensing, in press, 2021.<br />
-				<a class="publication-icon" href="https://arxiv.org/abs/2105.03647" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+				<a class="publication-icon" href="https://ieeexplore.ieee.org/document/9594829" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="https://git.tu-berlin.de/rsim/image-retrieval-from-triplets" target="_blank"><i class="fa fa-github text-color-be"></i></a>
 			</div>
 		</div>
@@ -31,7 +42,7 @@ guid: https://www.bigearth.eu/publications
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">BigEarthNet-MM: A Large Scale Multi-Modal Multi-Label Benchmark Archive for Remote Sensing Image Classification and Retrieval</span><br />
 				Gencer Sumbul, Arne de Wall, Tristan Kreuziger, Filipe Marcelino, Hugo Costa, Pedro Benevides, Mário Caetano, Begüm Demir, Volker Markl<br />
-				IEEE Geoscience and Remote Sensing Magazine, accepted for publication, 2021.<br />
+				IEEE Geoscience and Remote Sensing Magazine, vol. 9, no. 3, pp. 174-180, Sept. 2021.<br />
 				<a class="publication-icon" href="https://arxiv.org/pdf/2105.07921.pdf" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="http://bigearth.net" target="_blank"><i class="fa fa-database text-color-be"></i></a>
 			</div>

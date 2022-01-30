@@ -28,7 +28,7 @@ guid: https://www.bigearth.eu/team
 						<a href="https://www.linkedin.com/in/beg%C3%BCm-demir-89626690/" target="_blank">
 							<i class="fa fa-linkedin" aria-hidden="true"></i>
 						</a>
-						<a href="http://www.begumdemir.com" target="_blank">
+						<a href="https://rsim.berlin/team/members/begum-demir" target="_blank">
 							<i class="fa fa-globe" aria-hidden="true"></i>
 						</a>
 					</div>
@@ -38,7 +38,7 @@ guid: https://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/BigEarthLogo.png">
+						<img src="assets/team/minh_tai_le.jpg">
 					</div>
 					<div class="col-md-12 section2">
 						<p>Minh Tai Le</p><br>
@@ -80,33 +80,6 @@ guid: https://www.bigearth.eu/team
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
-						<img src="assets/team/mahdyar_ravan.png">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Dr. Mahdyar Ravanbakhsh</p><br>
-					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
-					<div class="col-md-12 section4">
-						<a href="mailto:ravanbakhsh@tu-berlin.de">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</a>
-						<a href="https://scholar.google.com/citations?user=SI-w7jsAAAAJ&hl=en" target="_blank">
-							<i class="ai ai-google-scholar-square" aria-hidden="true"></i>
-						</a>
-						<a href="https://github.com/matt-rb" target="_blank">
-							<i class="fa fa-github" aria-hidden="true"></i>
-						</a>
-						<a href="https://twitter.com/MahdyarRB" target="_blank">
-							<i class="fa fa-twitter" aria-hidden="true"></i>
-						</a>
-					</div>
-				</div>
-			</div>
 			<!-- -->
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
@@ -199,7 +172,7 @@ guid: https://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/BigEarthLogo.png">
+						<img src="assets/team/markus_muller.png">
 					</div>
 					<div class="col-md-12 section2">
 						<p>Markus Müller</p><br>
@@ -218,13 +191,29 @@ guid: https://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/BigEarthLogo.png">
+						<img src="assets/team/adina_zell.png">
 					</div>
 					<div class="col-md-12 section2">
 						<p>Adina Zell</p><br>
 					</div>
 					<div class="col-md-12 section4">
 						<a href="mailto:adina.zell@campus.tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/jun_xiang.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Jun Xiang</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:jun.xiang@campus.tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
@@ -313,6 +302,32 @@ guid: https://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/mahdyar_ravan.png">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Dr. Mahdyar Ravanbakhsh</p><br>
+					</div>
+					<!-- <div class="col-md-12 section3">
+						<p></p>
+					</div> -->
+					<div class="col-md-12 section4">
+						<a href="https://scholar.google.com/citations?user=SI-w7jsAAAAJ&hl=en" target="_blank">
+							<i class="ai ai-google-scholar-square" aria-hidden="true"></i>
+						</a>
+						<a href="https://github.com/matt-rb" target="_blank">
+							<i class="fa fa-github" aria-hidden="true"></i>
+						</a>
+						<a href="https://twitter.com/MahdyarRB" target="_blank">
+							<i class="fa fa-twitter" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+
 		</div>
 	</div>
 </div>

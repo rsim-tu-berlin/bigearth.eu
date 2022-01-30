@@ -23,6 +23,17 @@ guid: https://www.bigearth.eu/externals
 		<hr />
 		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="./assets/externals/images/RSVQAxBEN.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				RSVQAxBEN
+				<br/>
+				<a href="https://zenodo.org/record/5084904#.YfaLu_go9D8" target="_blank">RSVQAxBEN Dataset</a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
 				<img class="publication-image mx-auto d-block" src="./assets/externals/images/radiant-earth.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
