@@ -203,22 +203,6 @@ guid: https://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
-			<!-- -->
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
-						<img src="assets/team/jun_xiang.jpg">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Jun Xiang</p><br>
-					</div>
-					<div class="col-md-12 section4">
-						<a href="mailto:jun.xiang@campus.tu-berlin.de" target="_blank">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</a>
-					</div>
-				</div>
-			</div>
 		</div>
 	</div>
 	<div class="bg-faded p-4 my-4">
