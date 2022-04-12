@@ -13,6 +13,50 @@ guid: https://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/PLASTA-MTL-2022.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">Plasticity-Stability Preserving Multi-Task Learning for Remote Sensing Image Retrieval</span><br />
+				Gencer Sumbul, Mahdyar Ravanbakhsh, Begüm Demir<br />
+				IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2022.3160097, 2022.<br />
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/RCML-2022.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">Multi-Label Noise Robust Collaborative Learning Model for Remote Sensing Image Classification</span><br />
+				Ahmet Kerem Aksoy, Mahdyar Ravanbakhsh, Begüm Demir<br />
+				IEEE Transactions on Neural Networks and Learning Systems, in minor revision, 2022.<br />
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/TRIPLET-2022.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">Informative and Representative Triplet Selection for Multi-Label Remote Sensing Image Retrieval</span><br />
+				Gencer Sumbul, Mahdyar Ravanbakhsh, Begüm Demir<br />
+				IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3124326, 2022.<br />
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/RS-JCIF-2022.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">A Novel Framework to Jointly Compress and Index Remote Sensing Images for Efficient Content-based Retrieval</span><br />
+				Jun Xiang, Gencer Sumbul, Nimisha Madam and Begüm Demіr<br />
+				IEEE International Geoscience and Remote Sensing Symposium, Kuala Lumpur, Malaysia, 2022.<br />
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
 				<img class="publication-image mx-auto d-block" src="assets/publications/images/UCH-2022.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
