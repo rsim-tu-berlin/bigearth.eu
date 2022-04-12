@@ -172,17 +172,14 @@ guid: https://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/markus_muller.png">
+						<img src="assets/team/adina_zell.png">
 					</div>
 					<div class="col-md-12 section2">
-						<p>Markus Müller</p><br>
+						<p>Adina Zell</p><br>
 					</div>
 					<div class="col-md-12 section4">
-						<a href="mailto:markus.m.mueller@campus.tu-berlin.de" target="_blank">
+						<a href="mailto:adina.zell@campus.tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</a>
-						<a href="https://www.linkedin.com/in/markus-martin-m%C3%BCller/" target="_blank">
-							<i class="fa fa-linkedin" aria-hidden="true"></i>
 						</a>
 					</div>
 				</div>
@@ -191,13 +188,29 @@ guid: https://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/adina_zell.png">
+						<img src="assets/team/kai-norman-clasen.jpg">
 					</div>
 					<div class="col-md-12 section2">
-						<p>Adina Zell</p><br>
+						<p>Kai Norman Clasen</p><br>
 					</div>
 					<div class="col-md-12 section4">
-						<a href="mailto:adina.zell@campus.tu-berlin.de" target="_blank">
+						<a href="mailto:k.clasen@tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/martin-hermann-paul-fuchs.png">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Martin Hermann Paul Fuchs</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:m.fuchs@tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
