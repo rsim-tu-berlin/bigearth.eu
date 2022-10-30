@@ -188,6 +188,38 @@ guid: https://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/leonard-hackel.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Leonard Hackel</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:l.hackel@tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/tim-siebert.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Tim Siebert</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:t.siebert@campus.tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 	<div class="bg-faded p-4 my-4">
