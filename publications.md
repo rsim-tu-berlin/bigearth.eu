@@ -13,6 +13,39 @@ guid: https://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/ADLAAD-2022.jpg">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">Advanced Deep Learning Architectures for Accurate Detection of Subsurface Tile Drainage Pipes from Remote Sensing Images</span><br />
+				Tom-Lukas Breitkopf*, Leonard Hackel*, Mahdyar Ravanbakhsh, Anne-Karin Cooke, Sandra Willkommen, Stefan Broda, Begüm Demir<br />
+				SPIE Image and Signal Processing for Remote Sensing, Berlin, 2022.<br />
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/MMFTVQA-2022.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">Multi-Modal Fusion Transformer for Visual Question Answering in Remote Sensing</span><br />
+				Tim Siebert*, Kai Norman Clasen*, Mahdyar Ravanbakhsh, Begüm Demir<br />
+				SPIE Image and Signal Processing for Remote Sensing, Berlin, 2022.<br />
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/TSIC-2022.png">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">Towards Simultaneous Image Compression and Indexing for Scalable Content-Based Retrieval in Remote Sensing</span><br />
+				Gencer Sumbul, Jun Xiang, Begüm Demir<br />
+				IEEE Transactions on Geoscience and Remote Sensing, 10.1109/TGRS.2022.3204914, 2022.<br />
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
 				<img class="publication-image mx-auto d-block" src="assets/publications/images/PLASTA-MTL-2022.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
@@ -29,7 +62,7 @@ guid: https://www.bigearth.eu/publications
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Multi-Label Noise Robust Collaborative Learning Model for Remote Sensing Image Classification</span><br />
 				Ahmet Kerem Aksoy, Mahdyar Ravanbakhsh, Begüm Demir<br />
-				IEEE Transactions on Neural Networks and Learning Systems, in minor revision, 2022.<br />
+				IEEE Transactions on Neural Networks and Learning Systems, in minor revision, doi:10.1109/TNNLS.2022.3209992, 2022.<br />
 			</div>
 		</div>
 		<hr />
