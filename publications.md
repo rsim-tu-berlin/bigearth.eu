@@ -16,6 +16,18 @@ guid: https://www.bigearth.eu/publications
 				<img class="publication-image mx-auto d-block" src="assets/publications/images/ADLAAD-2022.jpg">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
+				<span class="publication-title">On the Effects of Different Types of Label Noise in Multi-Label Remote Sensing Image Classification</span><br />
+				Tom Burgert, Mahdyar Ravanbakhsh, Begüm Demir<br />
+				 IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2022.3226371, 2022.<br />
+				<a class="publication-icon" href="https://ieeexplore.ieee.org/document/9968196" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-lg-3 col-lg-12-pull">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/ADLAAD-2022.jpg">
+			</div>
+			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">Advanced Deep Learning Architectures for Accurate Detection of Subsurface Tile Drainage Pipes from Remote Sensing Images</span><br />
 				Tom-Lukas Breitkopf*, Leonard Hackel*, Mahdyar Ravanbakhsh, Anne-Karin Cooke, Sandra Willkommen, Stefan Broda, Begüm Demir<br />
 				SPIE Image and Signal Processing for Remote Sensing, Berlin, 2022.<br />
