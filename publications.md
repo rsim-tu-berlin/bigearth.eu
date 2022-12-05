@@ -13,7 +13,7 @@ guid: https://www.bigearth.eu/publications
 		<hr />
 		<div class="row">
 			<div class="col-lg-3 col-lg-12-pull">
-				<img class="publication-image mx-auto d-block" src="assets/publications/images/ADLAAD-2022.jpg">
+				<img class="publication-image mx-auto d-block" src="assets/publications/images/OEDTLNMLRSIC-2022.png">
 			</div>
 			<div class="col-lg-9 col-lg-12-push">
 				<span class="publication-title">On the Effects of Different Types of Label Noise in Multi-Label Remote Sensing Image Classification</span><br />
