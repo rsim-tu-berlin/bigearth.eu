@@ -14,7 +14,7 @@ guid: https://www.bigearth.eu/media
 			</div>
 			<div class="col-9">
 				<b>January 2023</b> - BigEarthNet Guide<br />
-				We have recently released <a href="https://docs.kai-tub.tech/ben-docs/" target="_blank">the BigEarthNet guide</a> as an interactive website that also introduces <a href="ttps://github.com/kai-tub/ben-docs" target="_blank">BigEarthNet-related libraries</a>.
+				We have recently released <a href="https://docs.kai-tub.tech/ben-docs/" target="_blank">the BigEarthNet guide</a> as an interactive website that also introduces <a href="https://github.com/kai-tub/ben-docs" target="_blank">BigEarthNet-related libraries</a>.
 			</div>
 		</div>
 		<hr />
