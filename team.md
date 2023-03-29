@@ -58,14 +58,14 @@ guid: https://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/adela_westedt.jpg">
+						<img src="assets/team/huma-ghani-zada.jpg">
 					</div>
 					<div class="col-md-12 section2">
-						<p>Adela Westedt</p><br>
+						<p>Huma Ghani Zada</p><br>
 						<h1>System Administration</h1><br>
 					</div>
 					<div class="col-md-12 section4">
-						<a href="mailto:adela.westedt@tu-berlin.de">
+						<a href="mailto:huma.ghani.zada@tu-berlin.de">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
@@ -128,22 +128,6 @@ guid: https://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/tom_burgert.jpg">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Tom Burgert</p><br>
-					</div>
-					<div class="col-md-12 section4">
-						<a href="mailto:tom.o.burgert@campus.tu-berlin.de" target="_blank">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<!-- -->
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
 						<img src="assets/team/ahmet_kerem_aksoy.jpg">
 					</div>
 					<div class="col-md-12 section2">
@@ -195,13 +179,77 @@ guid: https://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/tim-siebert.jpg">
+						<img src="assets/team/genc-hoxha.jpg">
 					</div>
 					<div class="col-md-12 section2">
-						<p>Tim Siebert</p><br>
+						<p>Genc Hoxha</p><br>
 					</div>
 					<div class="col-md-12 section4">
-						<a href="mailto:t.siebert@campus.tu-berlin.de" target="_blank">
+						<a href="mailto:genc.hoxha@tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/yeti-gurbuz.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Yeti Gürbüz</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:y.guerbuez@tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/martha-domhoefer.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Martha Domhöfer</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:m.domhoefer@tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/kiril-murschel.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Kiril Murschel</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:murschel@campus.tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/baris-buyuktas.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Barış Büyüktaş</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:baris.bueyuektas@tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
@@ -326,6 +374,38 @@ guid: https://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section4">
 						<a href="mailto:adina.zell@campus.tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/tom_burgert.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Tom Burgert</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:tom.o.burgert@campus.tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/tim-siebert.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Tim Siebert</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:t.siebert@campus.tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
