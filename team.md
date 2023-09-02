@@ -128,25 +128,6 @@ guid: https://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/ahmet_kerem_aksoy.jpg">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Ahmet Kerem Aksoy</p><br>
-					</div>
-					<div class="col-md-12 section4">
-						<a href="mailto:a.aksoy@campus.tu-berlin.de" target="_blank">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</a>
-						<a href="https://www.linkedin.com/in/akeremaksoy/" target="_blank">
-							<i class="fa fa-linkedin" aria-hidden="true"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<!-- -->
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
 						<img src="assets/team/martin-hermann-paul-fuchs.png">
 					</div>
 					<div class="col-md-12 section2">
@@ -186,22 +167,6 @@ guid: https://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section4">
 						<a href="mailto:genc.hoxha@tu-berlin.de" target="_blank">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<!-- -->
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
-						<img src="assets/team/yeti-gurbuz.jpg">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Yeti Gürbüz</p><br>
-					</div>
-					<div class="col-md-12 section4">
-						<a href="mailto:y.guerbuez@tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
@@ -411,6 +376,25 @@ guid: https://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/ahmet_kerem_aksoy.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Ahmet Kerem Aksoy</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:a.aksoy@campus.tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+						<a href="https://www.linkedin.com/in/akeremaksoy/" target="_blank">
+							<i class="fa fa-linkedin" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
@@ -444,67 +428,68 @@ guid: https://www.bigearth.eu/team
     width: 170px;
 
     filter: gray; /* IE6-9 */
-  	-webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
-  	filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+
+-webkit-filter: grayscale(1); /_ Google Chrome, Safari 6+ & Opera 15+ _/
+filter: grayscale(1); /_ Microsoft Edge and Firefox 35+ _/
 }
 
-/* Disable grayscale on hover */
+/_ Disable grayscale on hover _/
 .section1 img:hover {
-  -webkit-filter: grayscale(0);
-  filter: none;
+-webkit-filter: grayscale(0);
+filter: none;
 }
 
 .section2 h1{
-    font-size:20px;
-    color:#C1C1C1;
-    margin:0px;
-    border-bottom:2px solid #5DDDD3;
-    display: inline-block;
-    padding: 10px 0px;
+font-size:20px;
+color:#C1C1C1;
+margin:0px;
+border-bottom:2px solid #5DDDD3;
+display: inline-block;
+padding: 10px 0px;
 }
 .section2 p{
-    background-color: rgba(241, 90, 36);
-    display: inline-block;
-    font-weight: bold;
-    color:#fff;
-    padding: 5px 15px;
-    border-radius: 3px;
-    margin-top: -20px;
+background-color: rgba(241, 90, 36);
+display: inline-block;
+font-weight: bold;
+color:#fff;
+padding: 5px 15px;
+border-radius: 3px;
+margin-top: -20px;
 }
 .section2 span{
-    color:#979597;
+color:#979597;
 }
 .section2 label{
-    background-color: #5DDDD3;
-    padding: 8px 10px 8px 10px;
-    color:#fff;
-    font-weight: normal;
-    margin: 30px 0px 35px 0px;
-    border-radius: 2px;
+background-color: #5DDDD3;
+padding: 8px 10px 8px 10px;
+color:#fff;
+font-weight: normal;
+margin: 30px 0px 35px 0px;
+border-radius: 2px;
 }
 .section3 p{
-    padding: 10px 15px 0px 15px;
-    font-size:12px;
-    color:#c3c9c9;
+padding: 10px 15px 0px 15px;
+font-size:12px;
+color:#c3c9c9;
 }
 .section4{
-    padding:10px 0px 50px 0px;
+padding:10px 0px 50px 0px;
 }
 .section4 i{
-    color:#fff;
-    padding:3px;
-    border-radius: 2px;
-    font-size: 12px;
-    background-color: #5DDDD3;
-    cursor: pointer;
+color:#fff;
+padding:3px;
+border-radius: 2px;
+font-size: 12px;
+background-color: #5DDDD3;
+cursor: pointer;
 }
 
 .section-danger .section4 i {
-    background-color: rgba(241, 90, 36);
-    font-size: 14pt;
+background-color: rgba(241, 90, 36);
+font-size: 14pt;
 }
 
 .section-danger .section2 h1{
-    border-bottom:2px solid rgba(241, 90, 36);
+border-bottom:2px solid rgba(241, 90, 36);
 }
 </style>
