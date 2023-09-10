@@ -10,7 +10,7 @@ guid: https://www.bigearth.eu/media
 	<div class="bg-faded p-4 my-4">
 		<div class="row">
 			<div class="col-3">
-				<img class="publication-image" src="./assets/images/hyspecnet-11k.png">
+				<img class="publication-image" src="./assets/news/images/hyspecnet-11k.png">
 			</div>
 			<div class="col-9">
 				<b>July 2023</b> - HySpecNet-11K<br />
