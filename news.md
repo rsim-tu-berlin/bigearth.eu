@@ -10,6 +10,15 @@ guid: https://www.bigearth.eu/media
 	<div class="bg-faded p-4 my-4">
 		<div class="row">
 			<div class="col-3">
+				<img class="publication-image" src="./assets/images/hyspecnet-11k.png">
+			</div>
+			<div class="col-9">
+				<b>July 2023</b> - HySpecNet-11K<br />
+				We have recently released HySpecNet-11k that is a large-scale hyperspectral benchmark dataset made up of 11,483 image patches acquired by EnMAP satellite. For details, please visit: <a href="https://hyspecnet.rsim.berlin">hyspecnet.rsim.berlin</a>.
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-3">
 				<img class="publication-image" src="./assets/images/bigearth.png">
 			</div>
 			<div class="col-9">
@@ -161,7 +170,6 @@ guid: https://www.bigearth.eu/media
 		</div>
 	</div>
 </div>
-
 
 <!-- Modal -->
 <!-- The Modal -->
