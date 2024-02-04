@@ -38,26 +38,6 @@ guid: https://www.bigearth.eu/team
 			<div class="col-md-4 col-sm-4 col-xs-12">
 				<div class="row section-danger ourTeam-box text-center">
 					<div class="col-md-12 section1">
-						<img src="assets/team/minh_tai_le.jpg">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Minh Tai Le</p><br>
-						<h1>Administrative Assistant</h1><br>
-					</div>
-					<!-- <div class="col-md-12 section3">
-						<p></p>
-					</div> -->
-					<div class="col-md-12 section4">
-						<a href="mailto:sekr@rsim.tu-berlin.de">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<!-- -->
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
 						<img src="assets/team/huma-ghani-zada.jpg">
 					</div>
 					<div class="col-md-12 section2">
@@ -167,22 +147,6 @@ guid: https://www.bigearth.eu/team
 					</div>
 					<div class="col-md-12 section4">
 						<a href="mailto:genc.hoxha@tu-berlin.de" target="_blank">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
-						</a>
-					</div>
-				</div>
-			</div>
-			<!-- -->
-			<div class="col-md-4 col-sm-4 col-xs-12">
-				<div class="row section-danger ourTeam-box text-center">
-					<div class="col-md-12 section1">
-						<img src="assets/team/kiril-murschel.jpg">
-					</div>
-					<div class="col-md-12 section2">
-						<p>Kiril Murschel</p><br>
-					</div>
-					<div class="col-md-12 section4">
-						<a href="mailto:murschel@campus.tu-berlin.de" target="_blank">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</a>
 					</div>
@@ -379,6 +343,23 @@ guid: https://www.bigearth.eu/team
 					</div>
 				</div>
 			</div>
+			<!-- -->
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="row section-danger ourTeam-box text-center">
+					<div class="col-md-12 section1">
+						<img src="assets/team/kiril-murschel.jpg">
+					</div>
+					<div class="col-md-12 section2">
+						<p>Kiril Murschel</p><br>
+					</div>
+					<div class="col-md-12 section4">
+						<a href="mailto:murschel@campus.tu-berlin.de" target="_blank">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- -->
 		</div>
 	</div>
 </div>
