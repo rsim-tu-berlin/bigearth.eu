@@ -99,6 +99,7 @@ guid: https://www.bigearth.eu/publications
 				 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, California, 2023.<br />
 				<a class="publication-icon" href="https://arxiv.org/abs/2306.00385" target="_blank"><i class="fa fa-file-pdf-o text-color-be"></i></a>
 				<a class="publication-icon" href="https://git.tu-berlin.de/rsim/hsi-compression" target="_blank"><i class="fa fa-gitlab text-color-be"></i></a>
+				<a class="publication-icon" href="https://hyspecnet.rsim.berlin" target="_blank"><i class="fa fa-database text-color-be"></i></a>
 			</div>
 		</div>
 		<hr />
